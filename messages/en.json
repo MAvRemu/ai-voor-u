@@ -1,0 +1,1070 @@
+{
+  "meta": {
+    "title": "AIvoorjou | Smart work starts with you",
+    "description": "Local AI assistant for businesses: installed at your office. For freelancers and SMBs. Personally set up and ready to use."
+  },
+  "header": {
+    "home": "Home",
+    "howItWorks": "How it works",
+    "useCases": "Use cases",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "cta": "Book a free intro"
+  },
+  "hero": {
+    "headline": "Smart work starts with you",
+    "subtitle": "I come to your office, install your own AI assistant and make sure everything runs smoothly. Your data stays yours.",
+    "cta": "Book a free intro call",
+    "badges": "Freelancers · SMBs · Practices · Offices"
+  },
+  "socialProof": {
+    "items": {
+      "satisfaction": "Not satisfied? Money back",
+      "noSubscription": "No monthly fees",
+      "personal": "Personally at your office"
+    }
+  },
+  "problem": {
+    "title": "Sound familiar?",
+    "items": {
+      "time": {
+        "title": "No time for AI",
+        "description": "You know AI can help, but you don't have time to figure it out."
+      },
+      "privacy": {
+        "title": "Privacy concerns",
+        "description": "You don't want your business data ending up at OpenAI or Google."
+      },
+      "complex": {
+        "title": "Too technical",
+        "description": "Every solution seems to require an IT department you don't have."
+      }
+    }
+  },
+  "solution": {
+    "title": "What I do for you",
+    "subtitle": "A personal AI assistant, running on your own device. No cloud, no subscription, no hassle.",
+    "items": {
+      "local": {
+        "title": "100% local",
+        "description": "Your AI runs on a compact device at your office. No data ever leaves your building."
+      },
+      "personal": {
+        "title": "Personally set up",
+        "description": "I visit you, install everything and tailor it to your workflow."
+      },
+      "support": {
+        "title": "Aftercare included",
+        "description": "After installation you get 4 hours of remote support to keep everything running smoothly."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "steps": {
+      "intake": {
+        "title": "Introduction",
+        "description": "We discuss your situation and explore where AI can add the most value. Free and no-obligation."
+      },
+      "setup": {
+        "title": "On-site installation",
+        "description": "I come to your office, install the device, configure your AI assistant and show you how it works."
+      },
+      "support": {
+        "title": "Remote support",
+        "description": "After installation you get 4 hours of support to ask questions, make adjustments or set up additional features."
+      }
+    }
+  },
+  "useCases": {
+    "title": "What can your AI assistant do?",
+    "subtitle": "A few examples of how other entrepreneurs use their AI.",
+    "items": {
+      "admin": {
+        "tag": "SMB",
+        "title": "Accounting firm",
+        "description": "Answer emails, process invoices and summarise lengthy documents.",
+        "before": "2 hours a day spent on emails and manual processing",
+        "after": "AI answers standard emails and summarises documents in seconds",
+        "details": [
+          "Upload documents and ask questions about their content",
+          "Answer standard client emails in your style",
+          "Summarise lengthy reports and contracts to key points"
+        ]
+      },
+      "designer": {
+        "tag": "Freelancer",
+        "title": "Freelance designer",
+        "description": "Brainstorm concepts, analyse briefs and write proposals in your tone of voice.",
+        "before": "Blank page syndrome and hours spent writing proposals",
+        "after": "AI as a creative sparring partner that also drafts your proposals",
+        "details": [
+          "Analyse briefs and suggest creative directions",
+          "Write proposals and project descriptions in your style",
+          "Prepare client communication and follow-ups"
+        ]
+      },
+      "realEstate": {
+        "tag": "SMB",
+        "title": "Real estate agency",
+        "description": "Generate property descriptions and automatically answer client enquiries.",
+        "before": "Writing every property listing by hand and answering repetitive questions",
+        "after": "AI generates listings and answers common enquiries instantly",
+        "details": [
+          "Generate property descriptions based on features",
+          "Automatically answer frequently asked client questions",
+          "Summarise market analyses and comparisons"
+        ]
+      },
+      "coach": {
+        "tag": "Freelancer",
+        "title": "Coach or trainer",
+        "description": "Summarise session notes, draft follow-up emails and create social media content.",
+        "before": "Evenings spent writing up notes and creating content",
+        "after": "AI processes notes instantly and prepares content ready to post",
+        "details": [
+          "Turn voice notes or typed notes into structured summaries",
+          "Draft personalised follow-up emails per client",
+          "Generate LinkedIn posts and newsletter content"
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "title": "What does it cost?",
+    "package": {
+      "title": "Complete package",
+      "price": "€950",
+      "priceNote": "excl. VAT and hardware",
+      "includes": {
+        "intake": "1 hour preparation and intake",
+        "onsite": "2-3 hours on-site installation",
+        "setup": "Full configuration of your AI assistant",
+        "support": "4 hours remote support"
+      },
+      "hardware": "Hardware (Mac Mini or Beelink) available separately",
+      "cta": "Book a free intro"
+    }
+  },
+  "about": {
+    "title": "Who's behind AIvoorjou?",
+    "description": "I'm not a big company. I'm a person who believes AI should be accessible to everyone — not just businesses with an IT department. I come to your office, set everything up and make sure it works. Simple, personal and no-nonsense.",
+    "cta": "More about me"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": {
+      "whatDevice": {
+        "question": "What device do I need?",
+        "answer": "A Mac Mini or Beelink mini PC. I'll advise you on which model best suits your needs."
+      },
+      "privacy": {
+        "question": "Is my data really safe?",
+        "answer": "Yes. Everything runs locally on your device. No data goes to the cloud or third parties."
+      },
+      "whatCanItDo": {
+        "question": "What can an AI assistant actually do?",
+        "answer": "Think of writing emails, uploading and summarising documents, brainstorming, translations, creating content and even voice input. We tailor it to your work."
+      },
+      "howLong": {
+        "question": "How long does installation take?",
+        "answer": "The on-site installation takes 2-3 hours. After that you can start using it immediately."
+      },
+      "afterSupport": {
+        "question": "What if I need help afterwards?",
+        "answer": "You get 4 hours of remote support included. After that you can always book additional hours."
+      }
+    }
+  },
+  "ctaBanner": {
+    "title": "Ready to work smarter?",
+    "subtitle": "Book a free intro call and discover what your own AI assistant can do for you.",
+    "cta": "Book a free intro"
+  },
+  "footer": {
+    "description": "Your own AI assistant, at your office.",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "v2": {
+    "meta": {
+      "title": "AIvoorjou | AI that truly works for you",
+      "description": "Your personal AI assistant or AI for your business. Local, private and personally set up."
+    },
+    "header": {
+      "home": "Home",
+      "personal": "Personal",
+      "business": "Business",
+      "howItWorks": "How it works",
+      "pricing": "Pricing",
+      "contact": "Contact",
+      "cta": "Get in touch"
+    },
+    "hero": {
+      "eyebrow": "Your own AI assistant — personally set up for you",
+      "headline": "I set up your AI assistant.",
+      "headlineAccent": "Personal. Private. Ready in a day.",
+      "subtitle": "I come to your office, install an AI assistant that works with your email, calendar and documents, and make sure everything runs. One-time €950, no subscription, your data stays yours.",
+      "ctaPersonal": "Book a free call",
+      "ctaBusiness": "See how it works",
+      "scrollLabel": "Discover what's possible"
+    },
+    "socialProof": {
+      "items": [
+        "Personal on-site installation",
+        "One-time €950 — no subscription",
+        "4 hours aftercare included",
+        "Not satisfied? Money back",
+        "100% local possible — your data stays yours",
+        "NL + EN support",
+        "Works with Gmail, Calendar & Drive",
+        "Up and running within a day"
+      ]
+    },
+    "pillars": {
+      "sectionLabel": "What can I do for you?",
+      "personal": {
+        "badge": "Complete package",
+        "title": "Your Personal AI Assistant",
+        "subtitle": "Your life, smarter",
+        "description": "An AI that manages your calendar, reads and replies to your emails, starts your morning with a briefing and even books your flights by voice.",
+        "price": "€950",
+        "priceNote": "one-time · excl. VAT",
+        "priceAnchor": "Similar tools cost €50-100/month. After 10 months you've already paid more.",
+        "guarantee": "Not satisfied? Money back.",
+        "cta": "Book a free call",
+        "includes": [
+          "Full custom configuration",
+          "Connect email, calendar & Drive",
+          "Voice control setup",
+          "Morning briefing automation",
+          "4 hours remote support"
+        ],
+        "useCases": [
+          {
+            "icon": "mic",
+            "title": "Book flights by voice",
+            "description": "\"Book a flight to Barcelona for Friday\" — AI searches, compares and sends the itinerary to your email."
+          },
+          {
+            "icon": "sun",
+            "title": "Morning AI briefing",
+            "description": "Every morning a summary of your emails, calendar and relevant news."
+          },
+          {
+            "icon": "mail",
+            "title": "Smart emails",
+            "description": "AI reads your inbox, detects priority and drafts replies in your tone of voice."
+          },
+          {
+            "icon": "calendar",
+            "title": "Calendar by voice",
+            "description": "\"Schedule a meeting with Marc tomorrow at 10 and send an invite\" — done."
+          }
+        ]
+      },
+      "business": {
+        "badge": "Custom",
+        "title": "AI for your Business",
+        "subtitle": "Your business, more efficient",
+        "description": "From email triage to customer service chatbot: I automate repetitive tasks so you can focus on what truly matters.",
+        "price": "Custom",
+        "priceNote": "get in touch",
+        "cta": "Book a free call",
+        "includes": [
+          "Customer service chatbot (NL + EN)",
+          "Email triage & routing",
+          "Meeting transcription & action items",
+          "Workflow automation",
+          "Ongoing support"
+        ],
+        "useCases": [
+          {
+            "icon": "inbox",
+            "title": "Email triage & routing",
+            "description": "AI sorts incoming emails, labels and routes them to the right person."
+          },
+          {
+            "icon": "record",
+            "title": "Meeting transcription",
+            "description": "Record meetings, transcribe and extract action items per person."
+          },
+          {
+            "icon": "bot",
+            "title": "Customer chatbot",
+            "description": "Available 24/7 in NL and EN, trained on your products and FAQ."
+          },
+          {
+            "icon": "workflow",
+            "title": "Workflow automation",
+            "description": "Connect AI to your CRM, inbox, Drive and calendar — automate the repetitive."
+          }
+        ]
+      }
+    },
+    "howItWorks": {
+      "title": "How it works",
+      "subtitle": "From conversation to working AI in three steps",
+      "inlineCta": "Sounds good? Book step 1.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Free video call",
+          "description": "In 30 minutes we discuss your situation. I show you what's possible and advise which solution fits."
+        },
+        {
+          "step": "02",
+          "title": "I come by and set everything up",
+          "description": "Within a week I visit your office. After 2-3 hours your AI assistant is running — connected to your email, calendar and documents."
+        },
+        {
+          "step": "03",
+          "title": "You're live + 4 hours support",
+          "description": "I show you how everything works. You get 4 hours of remote support. Questions? I'm available."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Transparent prices, no hidden costs",
+      "personal": {
+        "badge": "Complete package",
+        "title": "Personal AI Assistant",
+        "price": "€950",
+        "priceNote": "one-time · excl. VAT",
+        "includes": [
+          "Full custom configuration",
+          "Connect email, calendar & Drive",
+          "Voice control setup",
+          "Morning briefing automation",
+          "4 hours remote support"
+        ],
+        "cta": "Book a free call"
+      },
+      "business": {
+        "badge": "Custom",
+        "title": "Business AI",
+        "price": "Custom",
+        "priceNote": "based on your situation",
+        "includes": [
+          "Customer service chatbot (NL + EN)",
+          "Email triage & routing",
+          "Meeting transcription & action items",
+          "Internal knowledge base",
+          "Workflow automation",
+          "Ongoing support"
+        ],
+        "cta": "Get in touch"
+      }
+    },
+    "about": {
+      "eyebrow": "Who's behind AIvoorjou",
+      "title": "I'm not a big company.",
+      "titleAccent": "That's the whole point.",
+      "description": "I believe AI should be accessible to everyone — not just businesses with an IT department. I come to your office, set everything up and make sure it works. Personal, direct and no-nonsense.",
+      "cta": "Book a free call"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "Is my data safe?",
+          "answer": "Yes. Everything can run locally on your own device. No data goes to the cloud unless you want it to."
+        },
+        {
+          "question": "What if it doesn't work or I'm not satisfied?",
+          "answer": "You get your money back. Simple as that. I stand behind my work."
+        },
+        {
+          "question": "I don't understand technology. Is that a problem?",
+          "answer": "Not at all — that's exactly why this service exists. I handle everything, you just tell me what you need."
+        },
+        {
+          "question": "Can I see how it works first?",
+          "answer": "Yes! During the free intro call I show you a demo so you know exactly what you're getting."
+        },
+        {
+          "question": "How does it work for my business?",
+          "answer": "We start with an intake to understand your processes. Then I configure a custom solution: chatbot, email triage, transcription or a combination."
+        },
+        {
+          "question": "How quickly can I go live?",
+          "answer": "Personal assistant: within one day after intake. Business solutions: 1-2 weeks depending on complexity."
+        },
+        {
+          "question": "What about after installation?",
+          "answer": "You get 4 hours of support included. After that you can book additional hours or arrange a maintenance contract."
+        },
+        {
+          "question": "What if I already use tools like Gmail or Google Calendar?",
+          "answer": "That's exactly when it works best. I connect the AI to your existing tools so you don't need to switch."
+        }
+      ]
+    },
+    "ctaBanner": {
+      "eyebrow": "Ready to get started?",
+      "title": "Shall we have a chat?",
+      "subtitle": "Book a free 30-minute video call. I'll show you what AI can do for your situation. No obligations.",
+      "cta": "Book a free intro call",
+      "ctaSubLabel": "Free and no-obligation · 30 minutes",
+      "ctaSecondary": "Or send an email to info@aivoorjou.nu"
+    },
+    "footer": {
+      "description": "Personal AI assistants and business automation.",
+      "navPersonal": "Personal",
+      "navBusiness": "Business",
+      "navHowItWorks": "How it works",
+      "navPricing": "Pricing",
+      "contact": "Contact",
+      "rights": "All rights reserved."
+    }
+  },
+  "v4": {
+    "demos": {
+      "title": "See it in action",
+      "chat": {
+        "title": "AI Chat",
+        "userMessage": "Book a flight to Barcelona for Friday",
+        "aiMessage": "I found 3 flights. Best option:",
+        "flightAirline": "KLM",
+        "flightPrice": "€189",
+        "flightTime": "Departure 08:45"
+      },
+      "voice": {
+        "title": "Voice control",
+        "result": "Meeting with Marc",
+        "resultTime": "Tomorrow, 10:00",
+        "label": "Calendar update"
+      },
+      "docs": {
+        "title": "Document analysis",
+        "filename": "Contract-2026.pdf",
+        "summary": [
+          "Duration: 24 months",
+          "Notice period: 3 months",
+          "Value: €12,500 per year"
+        ]
+      }
+    }
+  },
+  "v5": {
+    "hero": {
+      "appTitle": "OpenClaw",
+      "statusOnline": "Online",
+      "cta": "Try it yourself",
+      "ctaSecondary": "See what's possible"
+    },
+    "conversations": {
+      "projectSummary": {
+        "user": "Summarise Project Apollo from my Drive and email it to Marlies",
+        "ai": "I found 14 documents in your Drive about Project Apollo. Here's the summary:",
+        "result": "Summary sent to marlies@company.nl",
+        "summaryPoints": [
+          "Budget: €45,000 — 73% spent",
+          "Deadline: 15 April 2026",
+          "Status: 3 of 5 milestones completed",
+          "Outstanding: design review + final report"
+        ]
+      },
+      "flightBooking": {
+        "user": "Book an evening flight to Barcelona this weekend, back before 8pm Sunday",
+        "ai": "I found 4 flights. Best combination:",
+        "outbound": "Sat 7 Mar · 18:30 · KLM · €156",
+        "returnFlight": "Sun 8 Mar · 15:45 · KLM · €143",
+        "total": "Total: €299",
+        "confirmLabel": "Book"
+      },
+      "morningCall": {
+        "user": "Call me every morning at 8 to go through my emails",
+        "ai": "Set up. Every weekday at 08:00 I'll call you with a voice update on:",
+        "items": [
+          "New emails (priority first)",
+          "Today's agenda",
+          "Outstanding tasks"
+        ],
+        "confirmLabel": "First briefing tomorrow at 08:00"
+      },
+      "invoiceReminder": {
+        "user": "Send a reminder to everyone who hasn't paid their invoice after 20 days",
+        "ai": "I've checked your accounting. Result:",
+        "stats": "15 outstanding invoices found · 12 reminders sent",
+        "detail": "3 invoices already on payment plan — skipped",
+        "confirmLabel": "All reminders sent"
+      },
+      "newsDigest": {
+        "user": "Give me a daily voice update on the latest developments in Dutch politics",
+        "ai": "Voice briefing set up. Every weekday at 07:30 you'll get a summary of:",
+        "sources": [
+          "NOS News",
+          "Parliament agenda",
+          "Relevant tweets from politicians"
+        ],
+        "confirmLabel": "First briefing tomorrow at 07:30"
+      }
+    },
+    "useCases": {
+      "title": "See what OpenClaw can do",
+      "labels": [
+        "Documents & email",
+        "Book travel",
+        "Morning briefing",
+        "Invoice follow-up",
+        "News updates"
+      ]
+    },
+    "features": {
+      "personal": {
+        "title": "Personal",
+        "description": "Calendar, email, flights, news — all through one conversation.",
+        "preview": "\"Book a table for 2 tonight in Amsterdam\""
+      },
+      "business": {
+        "title": "Business",
+        "description": "Invoices, meetings, client follow-up — automated.",
+        "preview": "\"Send all open quotes a follow-up\""
+      },
+      "always": {
+        "title": "Always available",
+        "description": "Via chat, voice or phone. 24/7, in Dutch and English.",
+        "preview": "\"Call me in 5 minutes with an update\""
+      }
+    }
+  },
+  "v6": {
+    "hero": {
+      "eyebrow": "The future of productivity",
+      "headline": "One assistant. Everything handled.",
+      "subtitle": "From booking flights to chasing invoices — see how OpenClaw takes over your day.",
+      "scrollLabel": "Scroll to discover"
+    },
+    "scenes": {
+      "personalLabel": "Personal",
+      "businessLabel": "Business",
+      "personal": [
+        {
+          "title": "Book flights",
+          "description": "Say where you want to go. OpenClaw searches, compares and books.",
+          "user": "Book an evening flight to Barcelona this weekend",
+          "ai": "4 flights found. Best option: KLM Sat 18:30, €156. Shall I book?",
+          "resultLabel": "KLM · Sat 18:30 · €156"
+        },
+        {
+          "title": "Morning briefing",
+          "description": "Every morning a personal update via voice or text.",
+          "user": "Call me at 8 with an overview of my day",
+          "ai": "Good morning! You have 3 meetings today, 12 unread emails of which 2 urgent, and it'll be 18°C.",
+          "resultLabel": "Daily at 08:00"
+        },
+        {
+          "title": "Smart email",
+          "description": "AI reads, sorts and replies to your emails in your style.",
+          "user": "Reply to Pieter's email about the quote, say we agree",
+          "ai": "Draft ready. I've included the details from the original quote. Want to review before I send?",
+          "resultLabel": "Draft saved"
+        },
+        {
+          "title": "Analyse documents",
+          "description": "Upload a PDF or reference Drive — ask questions in plain language.",
+          "user": "What are the key terms in the DataCorp contract?",
+          "ai": "From the contract (v3.1): Duration 36 months, notice period 90 days, SLA 99.5%, late payment penalty clause.",
+          "resultLabel": "4 key points found"
+        },
+        {
+          "title": "Manage calendar",
+          "description": "Schedule, move and cancel appointments with one sentence.",
+          "user": "Move my meeting with Thomas to Thursday 2pm",
+          "ai": "Moved. Thomas received a confirmation with the new time. I've also adjusted your travel time.",
+          "resultLabel": "Calendar updated"
+        },
+        {
+          "title": "Smart reminders",
+          "description": "Contextual reminders that go beyond a simple timer.",
+          "user": "Remind me about Lisa's birthday gift when I'm near the Bijenkorf",
+          "ai": "Location reminder set. I'll send a notification as soon as you're within 200m of the Bijenkorf.",
+          "resultLabel": "Location trigger active"
+        }
+      ],
+      "business": [
+        {
+          "title": "Invoice follow-up",
+          "description": "Automatic reminders for unpaid invoices.",
+          "user": "Send a reminder to clients with invoices older than 20 days",
+          "ai": "15 outstanding invoices found. 12 reminders sent. 3 skipped (payment plan).",
+          "resultLabel": "12 reminders sent"
+        },
+        {
+          "title": "Meeting transcription",
+          "description": "Record meetings, transcribe and extract action items.",
+          "user": "Summarise this afternoon's meeting and email the action items",
+          "ai": "Summary ready. 7 action items split across 4 people. Emails being sent now.",
+          "resultLabel": "7 action items · 4 people"
+        },
+        {
+          "title": "Customer chatbot",
+          "description": "24/7 customer service trained on your products and FAQ.",
+          "user": "How many customer queries did the chatbot handle this week?",
+          "ai": "This week: 342 conversations, 89% resolved independently, 38 forwarded to team. Satisfaction: 4.6/5.",
+          "resultLabel": "342 conversations · 89% resolved"
+        },
+        {
+          "title": "Project digest",
+          "description": "Weekly summary of all projects and to-do's.",
+          "user": "Give me an overview of all projects this week",
+          "ai": "3 active projects. Alpha: on track. Beta: 2 days behind, blocker at design review. Gamma: completed, awaiting approval.",
+          "resultLabel": "3 projects summarised"
+        },
+        {
+          "title": "Document generation",
+          "description": "Generate quotes, reports and contracts from data.",
+          "user": "Create a quote for Company X based on last week's meeting",
+          "ai": "Quote generated from meeting notes. Includes scope, timeline, price €18,500. Want to see the PDF?",
+          "resultLabel": "Quote-2026-047.pdf"
+        }
+      ]
+    },
+    "stats": {
+      "timeSaved": "saved per day",
+      "timeSavedValue": 45,
+      "prompts": "possible commands",
+      "promptsValue": 500,
+      "availability": "24/7 available"
+    },
+    "promptExplorer": {
+      "title": "Try a prompt",
+      "subtitle": "Click an example to see the result",
+      "personalLabel": "Personal",
+      "businessLabel": "Business",
+      "personal": [
+        { "icon": "mic", "label": "Book flight", "prompt": "Book a return flight to Rome for the weekend", "response": "3 options found. Cheapest: Transavia Fri 17:00, return Sun 19:30. Total €178." },
+        { "icon": "sun", "label": "Morning update", "prompt": "What's on my schedule today?", "response": "3 meetings, 8 unread emails (1 urgent from your accountant), and it'll be 22°C." },
+        { "icon": "mail", "label": "Write email", "prompt": "Write a thank-you email to yesterday's speaker", "response": "Draft ready: personal tone, reference to the lecture topic, invitation for coffee." },
+        { "icon": "drive", "label": "Summarise PDF", "prompt": "Summarise this report in 5 points", "response": "1. Revenue +12% YoY 2. EBITDA margin 18% 3. 3 new markets 4. Staff growth 15% 5. Outlook: cautiously positive" },
+        { "icon": "calendar", "label": "Schedule meeting", "prompt": "Schedule lunch with Anna next week", "response": "Anna is available Tuesday and Thursday. Tuesday 12:30 booked at Café Lola. Invite sent." },
+        { "icon": "home", "label": "Reminder", "prompt": "Remind me tomorrow to take the car to the garage", "response": "Reminder set for tomorrow 08:00. I also looked up the garage hours: 07:30-18:00." }
+      ],
+      "business": [
+        { "icon": "inbox", "label": "Chase invoices", "prompt": "Which invoices are still open?", "response": "8 invoices open, total €23,400. Oldest: Company Y, 34 days, €4,200. Want to send reminders?" },
+        { "icon": "record", "label": "Summarise meeting", "prompt": "Summarise this afternoon's client call", "response": "45 min call, 5 action items. Key: send quote by Friday, schedule demo week 12." },
+        { "icon": "bot", "label": "Chatbot report", "prompt": "How is our chatbot performing?", "response": "This month: 1,240 conversations, 91% resolved, NPS 72. Top 3 questions: delivery time, returns, opening hours." },
+        { "icon": "summary", "label": "Sales report", "prompt": "Give me this month's sales figures", "response": "Revenue €45,200 (target: €50,000 — 90%). 12 new deals, 3 lost. Pipeline: €120,000." },
+        { "icon": "book", "label": "Create quote", "prompt": "Create a quote for the webshop project", "response": "Quote generated: €24,500, timeline 8 weeks, 3 phases. Based on your standard template + project notes." },
+        { "icon": "workflow", "label": "Workflow check", "prompt": "What automations are running?", "response": "6 active: invoice reminder (daily), lead triage (realtime), weekly report (Mon 08:00), 3 custom flows." }
+      ]
+    }
+  },
+  "v7": {
+    "hero": {
+      "eyebrow": "A day with OpenClaw",
+      "headline": "One day with your AI assistant",
+      "subtitle": "From early morning to late evening — discover how OpenClaw takes over your day.",
+      "cta": "Watch the day",
+      "scrollLabel": "Scroll through the day"
+    },
+    "timeline": {
+      "title": "Your day, with AI",
+      "moments": [
+        {
+          "time": "07:00",
+          "title": "Morning briefing",
+          "category": "personal",
+          "user": "Good morning! What's on today?",
+          "ai": "Good morning! You have 3 meetings today. 14 new emails — 2 are urgent. Weather: 16°C, cloudy. Want me to summarise the urgent emails?",
+          "resultLabel": "Voice briefing at 07:00",
+          "before": "Open inbox, scroll for 30 minutes, stress",
+          "after": "5-minute voice update, instant overview",
+          "timeSaved": 25
+        },
+        {
+          "time": "08:30",
+          "title": "Reschedule meeting",
+          "category": "business",
+          "user": "Move my meeting with Thomas to 2pm and let him know why",
+          "ai": "Moved from 10:00 to 14:00. Thomas received a message: \"Due to a scheduling conflict, the meeting has been moved to 14:00.\"",
+          "resultLabel": "Calendar + message updated",
+          "before": "Open calendar, write email, update invite — 10 minutes",
+          "after": "One sentence, 10 seconds",
+          "timeSaved": 10
+        },
+        {
+          "time": "10:00",
+          "title": "Invoice reminders",
+          "category": "business",
+          "user": "Send a reminder to everyone who hasn't paid their invoice after 20 days",
+          "ai": "15 outstanding invoices checked. 12 reminders sent by email. 3 skipped due to payment plans. Total outstanding: €34,200.",
+          "resultLabel": "12 reminders · €34,200 outstanding",
+          "before": "Check accounting, write individual emails — 45 minutes",
+          "after": "One command, everything handled in 30 seconds",
+          "timeSaved": 44
+        },
+        {
+          "time": "12:30",
+          "title": "Analyse report",
+          "category": "business",
+          "user": "What are the highlights from last week's sales report?",
+          "ai": "Top 3: 1) Revenue +18% vs last month (€67,300). 2) 8 new clients, 3 enterprise. 3) Churn dropped to 2.1%. Note: Q2 pipeline is 30% below target.",
+          "resultLabel": "Report summarised in 4 points",
+          "before": "Download report, read 20 pages — 30 minutes",
+          "after": "Key points in 10 seconds",
+          "timeSaved": 29
+        },
+        {
+          "time": "15:00",
+          "title": "Process meeting",
+          "category": "business",
+          "user": "Summarise the meeting and email action items to all attendees",
+          "ai": "Meeting summarised (38 min). 6 action items across 3 people. Emails sent to Thomas, Sanne and Pieter with their specific tasks and deadlines.",
+          "resultLabel": "6 action items · 3 emails sent",
+          "before": "Write up notes, formulate action items, email — 25 minutes",
+          "after": "Automatically processed while you walk to your next meeting",
+          "timeSaved": 24
+        },
+        {
+          "time": "17:30",
+          "title": "Book restaurant",
+          "category": "personal",
+          "user": "Find an Italian restaurant in Amsterdam for 4 people Friday evening",
+          "ai": "3 options: 1) Toscanini — 19:30 available, 4.7 stars. 2) La Perla — 20:00, 4.5 stars. 3) Sapori — 19:00, 4.6 stars. Shall I book Toscanini?",
+          "resultLabel": "3 options · 1 click to book",
+          "before": "Google, read reviews, call — 20 minutes",
+          "after": "One sentence, 3 options, booked instantly",
+          "timeSaved": 19
+        },
+        {
+          "time": "21:00",
+          "title": "Evening summary",
+          "category": "personal",
+          "user": "Give me a summary of today",
+          "ai": "Today completed: 4 meetings, 23 emails processed, 12 invoice reminders sent, 1 restaurant booked. Tomorrow: 2 meetings, DataCorp quote deadline. Sleep well!",
+          "resultLabel": "Day complete",
+          "before": "Worrying about what you've forgotten",
+          "after": "Everything wrapped up, mind clear",
+          "timeSaved": 5
+        }
+      ]
+    },
+    "beforeAfter": {
+      "title": "The difference is tangible",
+      "withoutLabel": "Without AI",
+      "withLabel": "With OpenClaw",
+      "items": [
+        { "without": "30 min scrolling inbox", "with": "5 min voice briefing" },
+        { "without": "45 min chasing invoices", "with": "30 seconds, automatic" },
+        { "without": "25 min writing up meeting notes", "with": "Processed and emailed instantly" },
+        { "without": "30 min reading report", "with": "Key points in 10 seconds" },
+        { "without": "20 min searching restaurants", "with": "One sentence, booked instantly" }
+      ],
+      "totalSaved": 156,
+      "totalLabel": "minutes saved in one day"
+    },
+    "promptCards": {
+      "title": "What would you ask?",
+      "subtitle": "Click a card to see the answer",
+      "personalLabel": "Personal",
+      "businessLabel": "Business",
+      "personal": [
+        { "icon": "mic", "prompt": "Book a flight to Lisbon for the long weekend", "response": "4 options found. Cheapest: easyJet Thu 19:00, return Mon 14:30. Total €134." },
+        { "icon": "sun", "prompt": "What's the weather this weekend?", "response": "Saturday: 21°C, sunny. Sunday: 19°C, partly cloudy. Perfect for a terrace!" },
+        { "icon": "mail", "prompt": "Buy a gift for my mum, budget €50", "response": "3 suggestions: 1) Bol.com gift card €50. 2) Bloomon bouquet €45. 3) Rituals pamper set €49.50." },
+        { "icon": "calendar", "prompt": "When is my car's MOT due?", "response": "Your MOT expires 12 May 2026. Nearest garage: AutoService Zuid, Mon 11 May 09:00." },
+        { "icon": "drive", "prompt": "Find concert tickets for Goldband", "response": "Goldband plays 24 April at AFAS Live, Amsterdam. Tickets from €38.50. 2 categories available." },
+        { "icon": "home", "prompt": "Summarise the book I read last month", "response": "\"Humankind\" by Bregman: core message is that humans are naturally inclined towards cooperation. 3 key chapters summarised." }
+      ],
+      "business": [
+        { "icon": "inbox", "prompt": "How much revenue this month?", "response": "March revenue: €52,300 (target: €55,000 — 95%). 14 new orders, average order value €3,736." },
+        { "icon": "record", "prompt": "Who's on leave this week?", "response": "Mon-Fri: Sanne (all week). Wed-Fri: Thomas. Thu: Lisa (afternoon). Minimum staffing Wednesday." },
+        { "icon": "summary", "prompt": "Generate a monthly report for the board", "response": "Report generated: 6 pages, including financials, KPIs, project status and forecast. PDF ready." },
+        { "icon": "bot", "prompt": "Reply to the 5 oldest unanswered emails", "response": "5 drafts prepared. 3 client updates, 1 supplier confirmation, 1 internal. Want to review?" },
+        { "icon": "book", "prompt": "Compare our figures with last quarter", "response": "Q1 vs Q4: Revenue +8%, new clients +22%, churn -0.3pp. Strongest growth in Enterprise segment." },
+        { "icon": "workflow", "prompt": "How many hours spent on Project X?", "response": "Project X: 234 hours total, 68% of budget. Team: Jan 82h, Sanne 67h, Pieter 45h, other 40h." }
+      ]
+    }
+  },
+  "v9": {
+    "hero": {
+      "headline": "Ask a question.",
+      "subtitle": "This is a simulation of your future AI assistant. Type something — or pick an example.",
+      "chips": ["Book a flight to Barcelona", "What's on my schedule?", "Summarise this report", "How much does it cost?"]
+    },
+    "chat": {
+      "welcome": "Hi! I'm OpenClaw, your AI assistant. Ask me a question, or pick an example below.",
+      "inputPlaceholder": "Type a question...",
+      "statusOnline": "Online",
+      "minimizedLabel": "Ask a question...",
+      "suggestionsLabel": "Suggestions"
+    },
+    "capabilities": {
+      "title": "What can OpenClaw do?",
+      "subtitle": "Click 'Try it' to see for yourself.",
+      "tryButton": "Try it",
+      "items": [
+        { "icon": "mail", "title": "Manage email", "description": "Read, reply, sort — in your style.", "tryPrompt": "Reply to my last 3 emails" },
+        { "icon": "calendar", "title": "Manage calendar", "description": "Schedule, reschedule, invite — via text or voice.", "tryPrompt": "What's on my schedule today?" },
+        { "icon": "drive", "title": "Analyse documents", "description": "Upload a PDF, ask questions, summarise.", "tryPrompt": "Summarise the sales report in 3 points" },
+        { "icon": "mic", "title": "Voice control", "description": "Everything you type, you can also say.", "tryPrompt": "Call me tomorrow at 8 with an update" },
+        { "icon": "inbox", "title": "Track invoices", "description": "Automatic reminders, overviews, follow-ups.", "tryPrompt": "Which invoices are still open?" },
+        { "icon": "bot", "title": "Customer service chatbot", "description": "24/7 available, trained on your products.", "tryPrompt": "How is our chatbot performing?" }
+      ]
+    },
+    "responseWall": {
+      "title": "What would you ask?",
+      "subtitle": "Click an example to see the answer.",
+      "personalLabel": "Personal",
+      "businessLabel": "Business",
+      "personal": [
+        { "icon": "mic", "prompt": "Book a flight to Rome this weekend", "response": "3 options found. Cheapest: Transavia Fri 17:00, return Sun 19:30. Total €178." },
+        { "icon": "sun", "prompt": "What's on my schedule today?", "response": "3 meetings, 8 unread emails (1 urgent from your accountant), and it'll be 22°C." },
+        { "icon": "mail", "prompt": "Write a thank-you email to the speaker", "response": "Draft ready: personal tone, reference to the topic, invitation for coffee." },
+        { "icon": "calendar", "prompt": "Schedule lunch with Anna next week", "response": "Anna is free Tue and Thu. Tuesday 12:30 booked at Cafe Lola. Invite sent." },
+        { "icon": "drive", "prompt": "Summarise this contract", "response": "Duration 36 months, 90-day notice period, SLA 99.5%, penalty clause for late payment." },
+        { "icon": "home", "prompt": "Remind me about Lisa's gift", "response": "Location reminder set. Notification when you're near the department store." }
+      ],
+      "business": [
+        { "icon": "inbox", "prompt": "Which invoices are still open?", "response": "8 invoices open, total €23,400. Oldest: Company Y, 34 days, €4,200." },
+        { "icon": "record", "prompt": "Summarise this afternoon's meeting", "response": "45 min call, 5 action items. Key: send quote by Friday." },
+        { "icon": "bot", "prompt": "How is our chatbot performing?", "response": "This month: 1,240 conversations, 91% self-resolved, NPS 72. Top 3 questions: delivery time, return policy, opening hours." },
+        { "icon": "summary", "prompt": "Give me the sales figures", "response": "Revenue €45,200 (target: €50,000 — 90%). 12 new deals, 3 lost. Pipeline: €120,000." },
+        { "icon": "book", "prompt": "Create a quote for the webshop project", "response": "Quote generated: €24,500, 8-week timeline, 3 phases. Based on your template + notes." },
+        { "icon": "workflow", "prompt": "What automations are running?", "response": "6 active: invoice reminder (daily), lead triage (realtime), weekly report (Mon 08:00), 3 custom flows." }
+      ]
+    },
+    "responses": {
+      "greeting": "Hi! I'm OpenClaw. How can I help? You can ask me about flights, email, calendar, documents and more.",
+      "flight": "3 flights found. Best option: KLM Sat 18:30, €156. Return Sun 15:45, €143. Total: €299. Shall I book?",
+      "calendar": "Good morning! You have 3 meetings today, 12 unread emails (2 urgent), and it'll be 18°C.",
+      "email": "I've analysed your inbox. 14 new emails — 2 urgent (client waiting for quote, supplier needs confirmation). 5 newsletters archived. Want me to reply to the urgent ones?",
+      "document": "Report analysed. Key points: 1) Revenue +12% YoY 2) EBITDA margin 18% 3) 3 new markets 4) Headcount growth 15%.",
+      "invoice": "15 outstanding invoices checked. 12 reminders sent. 3 skipped (payment plan). Total outstanding: €34,200.",
+      "pricing": "The personal AI assistant costs a one-time €950 (excl. VAT). Includes: full setup, email/calendar/Drive integration, voice control, 4 hours support. No subscription. Not satisfied? Money back.",
+      "howItWorks": "It works in 3 steps: 1) Free 20-min video call 2) I come by and install everything (2-3 hours) 3) You're live + 4 hours aftercare. Operational within a week.",
+      "privacy": "Everything can run 100% locally on your own device. No data to the cloud, no third parties. You have full control.",
+      "fallback": "Great question! In real life I'd handle this for you right away. Want to see how it works?"
+    }
+  },
+  "v10": {
+    "meta": {
+      "title": "AIvoorU | Grow your business with AI",
+      "description": "I help freelancers and small businesses save time, win more clients, and grow — with AI solutions tailored to your workflow."
+    },
+    "header": {
+      "useCases": "Use cases",
+      "howItWorks": "How it works",
+      "about": "About",
+      "cta": "Book a free call"
+    },
+    "hero": {
+      "eyebrow": "AI adoption for small businesses & freelancers",
+      "headline": "Your competitors are already using AI.",
+      "headlineAccent": "Are you?",
+      "subtitle": "I help freelancers and small businesses save hours every week, serve customers better, and grow faster — with AI that actually fits your workflow.",
+      "cta": "Book a free call",
+      "scrollLabel": "See what's possible"
+    },
+    "painPoints": {
+      "title": "Sound familiar?",
+      "items": [
+        {
+          "title": "Drowning in repetitive tasks",
+          "description": "Emails, invoices, scheduling, follow-ups — you spend more time on admin than on actual work."
+        },
+        {
+          "title": "Can't afford to hire",
+          "description": "You need help, but another employee is too expensive. What if AI could handle the boring stuff?"
+        },
+        {
+          "title": "AI feels overwhelming",
+          "description": "ChatGPT, copilots, automations — where do you even start? You need someone who just makes it work."
+        },
+        {
+          "title": "Falling behind competitors",
+          "description": "Other businesses are already using AI to move faster. Every month you wait, the gap grows."
+        }
+      ],
+      "nudge": "Sound familiar? You're not alone — and there's an easy fix."
+    },
+    "useCases": {
+      "title": "What AI can do for your business",
+      "subtitle": "Real use cases, real results. And this is just the beginning.",
+      "categories": [
+        {
+          "title": "Your Personal AI Assistant",
+          "subtitle": "An AI that knows your business, your tone, your processes — available 24/7.",
+          "items": [
+            { "title": "Answer questions like you would", "description": "Train your AI on your knowledge base and way of working. It responds to customers and partners exactly as you would — even at 3 AM." },
+            { "title": "Remember everything, forget nothing", "description": "Your AI remembers every conversation, preference, and client detail. No more digging through emails or notes." },
+            { "title": "Think along and suggest", "description": "Brainstorm ideas, draft proposals, prepare meeting summaries, or research a topic — your AI handles it." },
+            { "title": "Speak your language", "description": "Your assistant adapts to your brand voice, jargon, and style. It's not generic AI — it's your AI." },
+            { "title": "Grow with you", "description": "Start simple, then expand to scheduling, follow-ups, reporting, and more. ROI visible within 90 days." },
+            { "title": "Reachable via voice, chat & email", "description": "Talk, type, or email — your AI responds on every channel. Via WhatsApp, Slack, voice, or just your browser." },
+            { "title": "Custom daily briefing", "description": "Every morning a summary of your inbox, calendar, and open tasks. Start your day with clarity instead of chaos." }
+          ]
+        },
+        {
+          "title": "Customer Service & Communication",
+          "subtitle": "Never miss a customer question again. Respond faster, resolve more, retain better.",
+          "items": [
+            { "title": "24/7 customer response without extra staff", "description": "AI chatbots handle up to 79% of routine questions independently. Response times drop 60%, satisfaction jumps 40%." },
+            { "title": "Less pressure on your team", "description": "AI handles repetitive inquiries — order status, pricing, FAQs — reducing workload by up to 70%." },
+            { "title": "Higher customer retention", "description": "Businesses using AI for service see 20% more retention and €3.50 return for every €1 invested." },
+            { "title": "Automatic follow-ups", "description": "AI sends timely follow-ups after purchases or appointments. 18% more repeat customers from follow-ups alone." },
+            { "title": "Multilingual support", "description": "AI answers customer questions in Dutch, English, German, and more — no need for extra staff per language." }
+          ]
+        },
+        {
+          "title": "Marketing & Content Creation",
+          "subtitle": "Produce more content, reach more people, spend less time — without hiring a team.",
+          "items": [
+            { "title": "Blogs, posts & newsletters in a fraction of the time", "description": "Blog creation drops from 8-10 hours to under 2 hours. Double your output without hiring." },
+            { "title": "Personalized email campaigns", "description": "AI writes, personalizes, and optimizes email sequences. 20% cost reduction, 80% revenue growth." },
+            { "title": "Social media on autopilot", "description": "Automated scheduling, captions, hashtag optimization. A full AI marketing stack for just €90-€150/month." },
+            { "title": "SEO content that gets found", "description": "AI generates optimized headings, descriptions, and keyword strategies. 30-60% faster content production." },
+            { "title": "Consistent brand identity", "description": "Train AI on your brand voice and style. Every piece of content stays on-brand, from Instagram to white papers." },
+            { "title": "Effortless A/B testing", "description": "AI generates multiple variants of headlines, CTAs, and emails. Automatically test which version performs best." }
+          ]
+        },
+        {
+          "title": "Sales & Lead Generation",
+          "subtitle": "Find more leads, respond faster, close more deals — with less manual effort.",
+          "items": [
+            { "title": "Qualify leads automatically", "description": "AI scores leads on behavior and fit. 36% more sales-ready leads, 23% higher conversion rate." },
+            { "title": "Respond faster = close more", "description": "AI-automated responses are 70% faster. One company closed 31% more deals just by responding in minutes." },
+            { "title": "Smart product recommendations", "description": "AI suggests products based on behavior. 15% larger carts, 12% better retention, ROI in 45 days." },
+            { "title": "Proposals in minutes, not hours", "description": "Proposal writing drops from 2 hours to 20 minutes. That's 8+ hours saved per month on just 5 proposals." },
+            { "title": "CRM enrichment on autopilot", "description": "AI fills in client profiles with public data, past interactions, and social media. Always a complete picture before your sales call." },
+            { "title": "Pipeline forecasting", "description": "AI predicts which deals are likely to close and where your pipeline has gaps. Adjust course before it's too late." }
+          ]
+        },
+        {
+          "title": "Administration & Finance",
+          "subtitle": "Stop drowning in paperwork. Let AI handle the boring stuff.",
+          "items": [
+            { "title": "Automatic bookkeeping & invoicing", "description": "AI extracts data from invoices, categorizes expenses, and schedules payments. 93% of accounting pros already use AI." },
+            { "title": "7 extra weeks per employee per year", "description": "That's the measured productivity gain from AI in accounting. Time shifts from data entry to strategy." },
+            { "title": "Cash flow predictions", "description": "AI analyzes patterns to predict cash flow, flag shortfalls, and suggest action. Fewer surprises, better decisions." },
+            { "title": "Fewer errors, better compliance", "description": "AI reduces data entry errors and keeps records audit-ready. Cleaner books, less stress." },
+            { "title": "Automatic expense reports", "description": "Snap a photo of a receipt, AI extracts amount, category, and VAT. Expense report done in seconds instead of minutes." }
+          ]
+        },
+        {
+          "title": "Scheduling & Operations",
+          "subtitle": "Reclaim 5-10 hours every week by letting AI manage your calendar and operations.",
+          "items": [
+            { "title": "Book appointments without back-and-forth", "description": "AI handles booking, confirmations, and rescheduling. One clinic reduced no-shows from 18% to just 6%." },
+            { "title": "Smart staff scheduling", "description": "AI optimizes schedules based on demand, availability, and skills. Up to 25% lower operational costs." },
+            { "title": "Automatic reminders & follow-ups", "description": "No more missed appointments or forgotten follow-ups. AI sends reminders via email, SMS, or chat." },
+            { "title": "Track projects & tasks", "description": "AI tracks deadlines, flags bottlenecks, and prioritizes your to-do list. Save 5-10 hours weekly." },
+            { "title": "Travel time & route optimization", "description": "AI schedules appointments back-to-back and accounts for travel time. Less driving, more client time." }
+          ]
+        },
+        {
+          "title": "Research & Intelligence",
+          "subtitle": "Know your market, watch competitors, spot opportunities — without hours of reading.",
+          "items": [
+            { "title": "Market research in minutes", "description": "AI scans and summarizes industry reports, news, and trends. Save 1-2 hours per client on research." },
+            { "title": "Competitor analysis on autopilot", "description": "AI monitors competitor pricing, products, and marketing. Actionable summaries instead of evenings on their site." },
+            { "title": "Data-driven decisions", "description": "AI analyzes your sales trends, customer behavior, and seasonal patterns. 15% less overstock, 10% more sales." },
+            { "title": "Spot trends before competitors", "description": "AI identifies emerging trends from social media, search data, and news. Be first to act, not last to react." },
+            { "title": "Make your internal knowledge searchable", "description": "AI makes all your documents, manuals, and processes searchable with plain language questions. Stop searching, start asking." }
+          ]
+        },
+        {
+          "title": "HR & People Operations",
+          "subtitle": "From hiring to onboarding and daily HR tasks — faster and more personal with AI.",
+          "items": [
+            { "title": "Job postings in minutes", "description": "AI writes compelling job descriptions based on requirements and your company culture. 75% faster than manual writing." },
+            { "title": "CV screening at scale", "description": "AI evaluates resumes for relevant experience, skills, and culture fit. Save hours per vacancy on initial screening." },
+            { "title": "Automated onboarding", "description": "New hires get an AI buddy that answers questions about processes, tools, and company policies. Productive faster." },
+            { "title": "Leave management & schedule changes", "description": "Employees request time off via chat. AI checks availability, adjusts the schedule, and confirms." },
+            { "title": "Measure employee satisfaction", "description": "AI sends short pulse surveys and analyzes satisfaction trends. Catch early signals before they become problems." }
+          ]
+        }
+      ]
+    },
+    "howIWork": {
+      "title": "How it works",
+      "subtitle": "From first conversation to real results in three steps",
+      "steps": [
+        {
+          "step": "01",
+          "label": "We talk",
+          "title": "Free discovery call",
+          "description": "In 30 minutes we explore your business, your bottlenecks, and where AI can make the biggest impact. No jargon, no obligations."
+        },
+        {
+          "step": "02",
+          "label": "I build",
+          "title": "AI tailored to you",
+          "description": "",
+          "items": [
+            {
+              "title": "Custom AI implementation",
+              "description": "I set up AI solutions tailored to your workflow — connected to your tools, trained on your data, ready to use."
+            },
+            {
+              "title": "On-site AI training",
+              "description": "I come to your office and teach you and your team how to use AI effectively — with real examples from your daily work."
+            }
+          ]
+        },
+        {
+          "step": "03",
+          "label": "You grow",
+          "title": "Results from day one",
+          "description": "You save time, serve customers better, and focus on what matters. I stay available for questions and fine-tuning."
+        }
+      ],
+      "cta": "Start with step 1"
+    },
+    "about": {
+      "eyebrow": "Who's behind AIvoorU",
+      "title": "I'm not a big consultancy.",
+      "titleAccent": "That's the whole point.",
+      "description": "I believe every freelancer and small business deserves access to AI — without the enterprise price tag or the tech jargon. I work hands-on, keep things personal, and won't leave until it actually works for you.",
+      "cta": "Book a free call"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "I'm not technical at all. Is that a problem?",
+          "answer": "Not at all — that's exactly why I exist. I handle everything from setup to configuration. You just tell me what you need, and I make it work."
+        },
+        {
+          "question": "How quickly will I see results?",
+          "answer": "Most clients notice a difference within the first week. Measurable ROI — like time saved or faster response times — is typically visible within 90 days."
+        },
+        {
+          "question": "Is my data safe?",
+          "answer": "Yes. I only work with trusted AI services and ensure your data isn't used to train models. Privacy and confidentiality are always a priority."
+        },
+        {
+          "question": "What if it doesn't work for my business?",
+          "answer": "During the free discovery call, we figure out together if AI is a good fit. I'm honest — if AI won't help your situation, I'll tell you upfront."
+        },
+        {
+          "question": "How much does it cost?",
+          "answer": "Every solution is custom, so the price depends on what you need. During the free discovery call I'll map that out and give you an honest estimate."
+        },
+        {
+          "question": "Do I need special hardware or software?",
+          "answer": "Usually not. Most solutions work with your existing tools — Gmail, Calendar, Drive, your CRM. If hardware is needed, I'll advise you."
+        },
+        {
+          "question": "Can I see how it works first?",
+          "answer": "Of course. In the free discovery call I walk you through concrete examples for your situation, so you know exactly what AI can do for you."
+        },
+        {
+          "question": "What happens after setup?",
+          "answer": "You get hands-on support to make sure everything runs smoothly. I'm available for questions, tweaks, and fine-tuning. I don't disappear after delivery."
+        }
+      ]
+    },
+    "ctaBanner": {
+      "eyebrow": "Ready to grow with AI?",
+      "title": "Let's talk about your business",
+      "subtitle": "Book a free 30-minute call. I'll show you exactly how AI can save you time and help you grow. No obligations, no jargon.",
+      "cta": "Book a free call",
+      "ctaSubLabel": "Free and no-obligation · 30 minutes",
+      "ctaSecondary": "Or email me at info@aivooru.nu"
+    }
+  }
+}
