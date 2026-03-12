@@ -46,7 +46,7 @@ export default function CTABanner() {
           <div className="mt-10">
             <Cal
               calLink="marius-ai-voor-u-zff3jy/30min"
-              config={{ layout: "month_view", theme: "light", "clockType": "24" }}
+              config={{ layout: "month_view", theme: "light", clockType: "24" }}
               style={{ width: "100%", height: "100%", overflow: "auto" }}
             />
           </div>
