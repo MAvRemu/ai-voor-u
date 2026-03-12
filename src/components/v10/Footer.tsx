@@ -10,6 +10,7 @@ export default function Footer() {
     { label: t("useCases"), href: "#use-cases" },
     { label: t("howItWorks"), href: "#how-it-works" },
     { label: t("about"), href: "#about" },
+    { label: t("faq"), href: "#faq" },
     { label: t("contact"), href: "#contact" },
   ];
 
@@ -57,6 +58,12 @@ export default function Footer() {
               className="text-sm hover:text-white transition-colors"
             >
               {t("email")}
+            </a>
+            <a
+              href={`tel:${t("phone").replace(/\s/g, "")}`}
+              className="text-sm hover:text-white transition-colors mt-2 block"
+            >
+              {t("phone")}
             </a>
           </div>
         </div>

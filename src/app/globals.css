@@ -70,9 +70,9 @@ html {
   color: white;
 }
 
-/* Offset scroll targets for sticky header */
+/* Offset scroll targets for fixed header */
 [id] {
-  scroll-margin-top: 5rem;
+  scroll-margin-top: 6rem;
 }
 
 /* Animated gradient text utility */

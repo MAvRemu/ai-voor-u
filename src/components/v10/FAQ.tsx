@@ -20,7 +20,7 @@ export default function FAQ() {
   }
 
   return (
-    <section className="py-20 md:py-28 bg-ice">
+    <section id="faq" className="py-20 md:py-28 bg-ice">
       <div className="max-w-3xl mx-auto px-6">
         {/* Header */}
         <BlurFade delay={0.1}>

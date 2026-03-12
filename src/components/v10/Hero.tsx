@@ -36,7 +36,7 @@ export default function Hero() {
             className="text-4xl md:text-6xl font-heading font-bold text-navy"
           />
           <BlurFade delay={0.4}>
-            <span className="gradient-text-static mt-2 block">
+            <span className="gradient-text-static mt-2 block pb-2 -mb-2">
               {t("headlineAccent")}
             </span>
           </BlurFade>

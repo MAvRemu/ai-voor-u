@@ -50,12 +50,19 @@ export default function CTABanner() {
               style={{ width: "100%", height: "100%", overflow: "auto" }}
             />
           </div>
-          <div className="mt-6">
+          <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-2 sm:gap-4">
             <a
               href="mailto:info@aivooru.nu"
               className="text-sm text-slate hover:text-navy underline transition-colors"
             >
               {t("ctaSecondary")}
+            </a>
+            <span className="hidden sm:inline text-slate/40">·</span>
+            <a
+              href="tel:+31629522244"
+              className="text-sm text-slate hover:text-navy underline transition-colors"
+            >
+              {t("ctaPhone")}
             </a>
           </div>
         </BlurFade>

@@ -9,9 +9,10 @@
       "description": "AI-consultancy en technische implementatie voor ZZP'ers en MKB in Nederland. Van strategie tot werkende AI-oplossingen. Persoonlijk opgezet door een AI-specialist."
     },
     "header": {
-      "useCases": "Toepassingen",
-      "howItWorks": "Hoe het werkt",
-      "about": "Over mij",
+      "useCases": "Mogelijkheden",
+      "howItWorks": "Werkwijze",
+      "about": "Wie ben ik",
+      "faq": "FAQ",
       "cta": "Plan een gratis gesprek"
     },
     "hero": {
@@ -315,7 +316,28 @@
       "titleAccent": "Dat is juist het punt.",
       "description": "Ik geloof dat elke freelancer en elk klein bedrijf toegang verdient tot AI — zonder enterpriseprijzen of technisch jargon. Ik werk hands-on, houd het persoonlijk en ga niet weg tot het écht werkt voor jou.",
       "cta": "Plan een gratis gesprek",
-      "aboutPhotoAlt": "Oprichter AIvoorU - AI-specialist voor ZZP'ers en MKB in Nederland"
+      "aboutPhotoAlt": "Oprichter AIvoorU - AI-specialist voor ZZP'ers en MKB in Nederland",
+      "showcaseTitle": "Waar ik aan heb gewerkt",
+      "showcase": [
+        {
+          "title": "[VUL IN: titel voor I Need Emily]",
+          "description": "[VUL IN: korte beschrijving van het project]",
+          "url": "https://www.ineedemily.com",
+          "tag": "[VUL IN: bijv. AI Chatbot]"
+        },
+        {
+          "title": "[VUL IN: titel voor Democracy of Trade]",
+          "description": "[VUL IN: korte beschrijving van het project]",
+          "url": "https://www.democracyoftrade.com",
+          "tag": "[VUL IN: bijv. Platform]"
+        },
+        {
+          "title": "[VUL IN: titel voor Baka Glass]",
+          "description": "[VUL IN: korte beschrijving — bijv. huidige werkplek]",
+          "url": "https://www.bakaglass.com/en",
+          "tag": "[VUL IN: bijv. Huidige werkplek]"
+        }
+      ]
     },
     "faq": {
       "title": "Veelgestelde vragen",
@@ -360,18 +382,21 @@
       "subtitle": "Plan een gratis gesprek van 30 minuten. Ik laat je precies zien hoe AI je tijd bespaart en helpt groeien. Geen verplichtingen, geen jargon.",
       "cta": "Plan een gratis gesprek",
       "ctaSubLabel": "Gratis en vrijblijvend · 30 minuten",
-      "ctaSecondary": "Of mail me op info@aivooru.nu"
+      "ctaSecondary": "Of mail me op info@aivooru.nu",
+      "ctaPhone": "Bel me: +31629522244"
     },
     "footer": {
       "brand": "AIvoorU",
       "tagline": "AI-oplossingen op maat voor freelancers en kleine bedrijven.",
       "nav": "Navigatie",
-      "useCases": "Toepassingen",
-      "howItWorks": "Hoe het werkt",
-      "about": "Over mij",
+      "useCases": "Mogelijkheden",
+      "howItWorks": "Werkwijze",
+      "about": "Wie ben ik",
+      "faq": "FAQ",
       "contact": "Contact",
       "contactTitle": "Contact",
       "email": "info@aivooru.nu",
+      "phone": "+31629522244",
       "copyright": "© {year} AIvoorU. Alle rechten voorbehouden."
     }
   }
