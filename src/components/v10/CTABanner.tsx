@@ -2,7 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { BlurFade } from "@/components/ui/blur-fade";
-import { ShimmerButton } from "@/components/ui/shimmer-button";
+import Cal from "@calcom/embed-react";
 
 export default function CTABanner() {
   const t = useTranslations("v10.ctaBanner");
@@ -23,7 +23,7 @@ export default function CTABanner() {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 max-w-2xl mx-auto px-6 text-center">
+      <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
         <BlurFade delay={0.1}>
           <span className="inline-flex px-4 py-1.5 rounded-full border border-navy/10 bg-navy/5 text-sm text-navy/70">
             {t("eyebrow")}
@@ -43,15 +43,17 @@ export default function CTABanner() {
         </BlurFade>
 
         <BlurFade delay={0.7}>
-          <div className="flex flex-col items-center mt-8 max-w-md mx-auto">
-            {/* TODO: Replace with real Calendly URL */}
-            <ShimmerButton href="https://calendly.com/JOUW-LINK" className="w-full text-center">
-              {t("cta")}
-            </ShimmerButton>
-            <p className="text-xs text-slate-light mt-2">{t("ctaSubLabel")}</p>
+          <div className="mt-10">
+            <Cal
+              calLink="marius-ai-voor-u-zff3jy/30min"
+              config={{ layout: "month_view", theme: "light", "clockType": "24" }}
+              style={{ width: "100%", height: "100%", overflow: "auto" }}
+            />
+          </div>
+          <div className="mt-6">
             <a
               href="mailto:info@aivooru.nu"
-              className="text-sm text-slate hover:text-navy underline transition-colors mt-4"
+              className="text-sm text-slate hover:text-navy underline transition-colors"
             >
               {t("ctaSecondary")}
             </a>

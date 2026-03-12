@@ -22,8 +22,8 @@ export default async function HomePage({
       <UseCaseShowcase />
       <HowIWork />
       <About />
-      <FAQ />
       <CTABanner />
+      <FAQ />
     </div>
   );
 }
