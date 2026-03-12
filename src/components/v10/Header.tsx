@@ -203,24 +203,21 @@ export default function V10Header() {
                   {link.label}
                 </motion.a>
               ))}
-              <motion.div
+              <motion.a
                 variants={mobileItemVariants}
-                className="flex items-center gap-4 pt-1"
+                href="#contact"
+                onClick={() => setMobileOpen(false)}
+                className="mt-1 flex items-center justify-center rounded-xl px-5 py-2.5 bg-gradient-to-r from-teal to-teal-dark font-heading font-semibold text-white text-sm shadow-lg shadow-teal/20"
               >
-                <button
-                  onClick={switchLocale}
-                  className="text-xs text-slate/50 hover:text-navy transition-colors uppercase tracking-wide"
-                >
-                  {otherLocale.toUpperCase()}
-                </button>
-                <ShimmerButton
-                  href="#contact"
-                  className="text-sm px-5 py-2.5"
-                  onClick={() => setMobileOpen(false)}
-                >
-                  {t("cta")}
-                </ShimmerButton>
-              </motion.div>
+                {t("cta")}
+              </motion.a>
+              <motion.button
+                variants={mobileItemVariants}
+                onClick={switchLocale}
+                className="text-xs text-slate/50 hover:text-navy transition-colors uppercase tracking-wide"
+              >
+                {otherLocale.toUpperCase()}
+              </motion.button>
             </div>
           </motion.div>
         )}

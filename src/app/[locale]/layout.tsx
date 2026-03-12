@@ -6,6 +6,7 @@ import { Poppins, Inter } from "next/font/google";
 import { routing } from "@/i18n/routing";
 import V10Header from "@/components/v10/Header";
 import { OrganizationJsonLd } from "@/components/JsonLd";
+import { Analytics } from "@vercel/analytics/next";
 import "../globals.css";
 
 const poppins = Poppins({
@@ -99,6 +100,7 @@ export default async function LocaleLayout({
           <V10Header />
           <main>{children}</main>
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );
