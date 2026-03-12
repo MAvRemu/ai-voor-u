@@ -39,29 +39,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# openclaw deployment
-backups/
-shared/extensions/
-
-# Runtime files modified by containers — never track these
-customers/*/config/agents/*/sessions/
-customers/*/config/agents/*/agent/auth-profiles.json
-customers/*/config/cron/runs/
-customers/*/config/cron/jobs.json
-customers/*/config/cron/jobs.json.bak
-customers/*/config/identity/
-customers/*/config/openclaw.json
-customers/*/config/openclaw.json.bak*
-customers/*/config/update-check.json
-customers/*/config/telegram/
-customers/*/config/devices/
-customers/*/config/credentials/
-customers/*/config/delivery-queue/
-customers/*/config/logs/
-customers/*/config/media/
-customers/*/config/memory/
-customers/*/config/completions/
-customers/*/config/workspace/
-customers/*/gws/
-deploy/gws-auth/node_modules/

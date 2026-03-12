@@ -29,18 +29,18 @@ export default function Hero() {
           </p>
         </BlurFade>
 
-        {/* Headline */}
-        <WordFadeIn
-          text={t("headline")}
-          className="text-4xl md:text-6xl font-heading font-bold text-navy mt-4"
-        />
-
-        {/* Headline accent */}
-        <BlurFade delay={0.4}>
-          <p className="text-4xl md:text-6xl font-heading font-bold gradient-text-static mt-2">
-            {t("headlineAccent")}
-          </p>
-        </BlurFade>
+        {/* Headline — H1 for SEO */}
+        <h1 className="text-4xl md:text-6xl font-heading font-bold text-navy mt-4">
+          <WordFadeIn
+            text={t("headline")}
+            className="text-4xl md:text-6xl font-heading font-bold text-navy"
+          />
+          <BlurFade delay={0.4}>
+            <span className="gradient-text-static mt-2 block">
+              {t("headlineAccent")}
+            </span>
+          </BlurFade>
+        </h1>
 
         {/* Subtitle */}
         <BlurFade delay={0.6}>

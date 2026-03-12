@@ -1,849 +1,12 @@
 {
   "meta": {
-    "title": "AIvoorjou | Slim werken begint bij jou",
-    "description": "AI voor bedrijven: jouw eigen AI-assistent, lokaal geïnstalleerd op kantoor. Voor ZZP'ers en MKB. Persoonlijk opgezet en klaar om te gebruiken."
-  },
-  "header": {
-    "home": "Home",
-    "howItWorks": "Hoe het werkt",
-    "useCases": "Toepassingen",
-    "pricing": "Investering",
-    "contact": "Contact",
-    "cta": "Plan een kennismaking"
-  },
-  "hero": {
-    "headline": "Slim werken begint bij jou",
-    "subtitle": "Ik kom bij je op kantoor, installeer jouw eigen AI-assistent en zorg dat alles draait. Jouw data blijft van jou.",
-    "cta": "Plan een gratis kennismaking",
-    "badges": "ZZP'ers · MKB · Praktijken · Kantoren"
-  },
-  "socialProof": {
-    "items": {
-      "satisfaction": "Niet tevreden? Geld terug",
-      "noSubscription": "Geen maandelijkse kosten",
-      "personal": "Persoonlijk bij je op kantoor"
-    }
-  },
-  "problem": {
-    "title": "Herkenbaar?",
-    "items": {
-      "time": {
-        "title": "Geen tijd voor AI",
-        "description": "Je weet dat AI kan helpen, maar je hebt geen tijd om het uit te zoeken."
-      },
-      "privacy": {
-        "title": "Zorgen over privacy",
-        "description": "Je wilt niet dat bedrijfsdata bij OpenAI of Google terechtkomt."
-      },
-      "complex": {
-        "title": "Te technisch",
-        "description": "Elke oplossing lijkt een IT-afdeling nodig te hebben die je niet hebt."
-      }
-    }
-  },
-  "solution": {
-    "title": "Wat ik voor je doe",
-    "subtitle": "Een persoonlijke AI-assistent, draaiend op jouw eigen apparaat. Geen cloud, geen abonnement, geen gedoe.",
-    "items": {
-      "local": {
-        "title": "100% lokaal",
-        "description": "Je AI draait op een compact apparaat op jouw kantoor. Geen data die je pand verlaat."
-      },
-      "personal": {
-        "title": "Persoonlijk opgezet",
-        "description": "Ik kom langs, installeer alles en stem het af op jouw werkwijze."
-      },
-      "support": {
-        "title": "Ondersteuning achteraf",
-        "description": "Na de installatie krijg je 4 uur ondersteuning op afstand om alles soepel te laten draaien."
-      }
-    }
-  },
-  "howItWorks": {
-    "title": "Hoe het werkt",
-    "steps": {
-      "intake": {
-        "title": "Kennismaking",
-        "description": "We bespreken jouw situatie en bekijken waar AI het meeste oplevert. Gratis en vrijblijvend."
-      },
-      "setup": {
-        "title": "Installatie op locatie",
-        "description": "Ik kom bij je op kantoor, installeer het apparaat, configureer jouw AI-assistent en laat zien hoe het werkt."
-      },
-      "support": {
-        "title": "Ondersteuning op afstand",
-        "description": "Na de installatie krijg je 4 uur support om vragen te stellen, aanpassingen te doen of extra functies in te richten."
-      }
-    }
-  },
-  "useCases": {
-    "title": "Wat kan jouw AI-assistent?",
-    "subtitle": "Een paar voorbeelden van hoe andere ondernemers hun AI inzetten.",
-    "items": {
-      "admin": {
-        "tag": "MKB",
-        "title": "Administratiekantoor",
-        "description": "E-mails beantwoorden, facturen verwerken en samenvattingen maken van lange documenten.",
-        "before": "2 uur per dag kwijt aan e-mails en handmatige verwerking",
-        "after": "AI beantwoordt standaard-e-mails en vat documenten samen in seconden",
-        "details": [
-          "Documenten uploaden en direct vragen stellen over de inhoud",
-          "Standaard klant-e-mails beantwoorden in jouw stijl",
-          "Lange rapporten en contracten samenvatten tot kernpunten"
-        ]
-      },
-      "designer": {
-        "tag": "ZZP",
-        "title": "Freelance ontwerper",
-        "description": "Brainstormen over concepten, briefings analyseren en offertes schrijven in jouw tone of voice.",
-        "before": "Blanco pagina-syndroom en uren aan offertes schrijven",
-        "after": "AI als creatieve sparringpartner die ook je offertes opstelt",
-        "details": [
-          "Briefings analyseren en creatieve richtingen voorstellen",
-          "Offertes en projectbeschrijvingen schrijven in jouw stijl",
-          "Klantcommunicatie en follow-ups voorbereiden"
-        ]
-      },
-      "realEstate": {
-        "tag": "MKB",
-        "title": "Makelaarskantoor",
-        "description": "Woningbeschrijvingen genereren en klantvragen automatisch beantwoorden.",
-        "before": "Elke woningbeschrijving handmatig schrijven en herhaalvragen beantwoorden",
-        "after": "AI genereert beschrijvingen en beantwoordt veelgestelde vragen direct",
-        "details": [
-          "Woningbeschrijvingen genereren op basis van kenmerken",
-          "Veelgestelde klantvragen automatisch beantwoorden",
-          "Marktanalyses en vergelijkingen samenvatten"
-        ]
-      },
-      "coach": {
-        "tag": "ZZP",
-        "title": "Coach of trainer",
-        "description": "Sessienotities samenvatten, follow-up e-mails opstellen en content maken voor social media.",
-        "before": "Avonden besteden aan notities uitwerken en content maken",
-        "after": "AI verwerkt notities direct en maakt content klaar om te posten",
-        "details": [
-          "Spraaknotities of getypte aantekeningen omzetten naar samenvattingen",
-          "Persoonlijke follow-up e-mails per cliënt opstellen",
-          "LinkedIn-posts en nieuwsbriefcontent genereren"
-        ]
-      }
-    }
-  },
-  "pricing": {
-    "title": "Wat kost het?",
-    "package": {
-      "title": "Compleet pakket",
-      "price": "€950",
-      "priceNote": "excl. BTW en hardware",
-      "includes": {
-        "intake": "1 uur voorbereiding en intake",
-        "onsite": "2-3 uur installatie op locatie",
-        "setup": "Volledige configuratie van je AI-assistent",
-        "support": "4 uur ondersteuning op afstand"
-      },
-      "hardware": "Hardware (Mac Mini of Beelink) apart verkrijgbaar",
-      "cta": "Plan een kennismaking"
-    }
-  },
-  "about": {
-    "title": "Wie staat er voor je klaar?",
-    "description": "Ik ben geen groot bedrijf. Ik ben een persoon die gelooft dat AI voor iedereen toegankelijk moet zijn — niet alleen voor bedrijven met een IT-afdeling. Ik kom bij je langs, zet alles op en zorg dat het werkt. Gewoon, persoonlijk en zonder poespas.",
-    "cta": "Meer over mij"
-  },
-  "faq": {
-    "title": "Veelgestelde vragen",
-    "items": {
-      "whatDevice": {
-        "question": "Welk apparaat heb ik nodig?",
-        "answer": "Een Mac Mini of Beelink mini-PC. Ik adviseer je welk model het beste bij jouw gebruik past."
-      },
-      "privacy": {
-        "question": "Is mijn data echt veilig?",
-        "answer": "Ja. Alles draait lokaal op jouw apparaat. Er gaat geen data naar de cloud of naar derden."
-      },
-      "whatCanItDo": {
-        "question": "Wat kan zo'n AI-assistent precies?",
-        "answer": "Denk aan e-mails schrijven, documenten uploaden en samenvatten, brainstormen, vertalingen, content maken en zelfs spraakgestuurde invoer. We stemmen het af op jouw werk."
-      },
-      "howLong": {
-        "question": "Hoe lang duurt de installatie?",
-        "answer": "De installatie op locatie duurt 2-3 uur. Daarna kun je direct aan de slag."
-      },
-      "afterSupport": {
-        "question": "Wat als ik daarna nog hulp nodig heb?",
-        "answer": "Je krijgt 4 uur ondersteuning op afstand inbegrepen. Daarna kun je altijd extra uren bijboeken."
-      }
-    }
-  },
-  "ctaBanner": {
-    "title": "Klaar om slimmer te werken?",
-    "subtitle": "Plan een gratis kennismaking en ontdek wat een eigen AI-assistent voor jou kan betekenen.",
-    "cta": "Plan een kennismaking"
-  },
-  "footer": {
-    "description": "Jouw eigen AI-assistent, bij jou op kantoor.",
-    "contact": "Contact",
-    "rights": "Alle rechten voorbehouden."
-  },
-  "v2": {
-    "meta": {
-      "title": "AIvoorjou | AI die écht voor jou werkt",
-      "description": "Jouw persoonlijke AI-assistent of AI voor jouw bedrijf. Lokaal, privé en persoonlijk opgezet."
-    },
-    "header": {
-      "home": "Home",
-      "personal": "Persoonlijk",
-      "business": "Bedrijf",
-      "howItWorks": "Hoe het werkt",
-      "pricing": "Investering",
-      "contact": "Contact",
-      "cta": "Plan een gratis gesprek"
-    },
-    "hero": {
-      "eyebrow": "Jouw eigen AI-assistent — persoonlijk bij je opgezet",
-      "headline": "Ik zet jouw AI-assistent op.",
-      "headlineAccent": "Persoonlijk. Privé. Klaar in een dag.",
-      "subtitle": "Ik kom bij je op kantoor, installeer een AI-assistent die werkt met jouw e-mail, agenda en documenten, en zorg dat alles draait. Eenmalig €950, geen abonnement, jouw data blijft van jou.",
-      "ctaPersonal": "Plan een gratis gesprek",
-      "ctaBusiness": "Bekijk hoe het werkt",
-      "scrollLabel": "Ontdek de mogelijkheden"
-    },
-    "socialProof": {
-      "items": [
-        "Persoonlijke installatie op kantoor",
-        "Eenmalig €950 — geen abonnement",
-        "4 uur nazorg inbegrepen",
-        "Niet tevreden? Geld terug",
-        "100% lokaal mogelijk — jouw data blijft van jou",
-        "NL + EN support",
-        "Werkt met Gmail, Calendar & Drive",
-        "Binnen een dag operationeel"
-      ]
-    },
-    "pillars": {
-      "sectionLabel": "Wat kan ik voor je doen?",
-      "personal": {
-        "badge": "Compleet pakket",
-        "title": "Jouw Persoonlijke AI-Assistent",
-        "subtitle": "Jouw leven, slimmer",
-        "description": "Een AI die je kalender beheert, je e-mails leest en beantwoordt, je ochtend inleidt met een briefing en zelfs je vluchten boekt via spraak.",
-        "price": "€950",
-        "priceNote": "eenmalig · excl. BTW",
-        "priceAnchor": "Vergelijkbare tools kosten €50-100/maand. Na 10 maanden ben je duurder uit.",
-        "guarantee": "Niet tevreden? Geld terug.",
-        "cta": "Plan een gratis gesprek",
-        "includes": [
-          "Volledige configuratie op maat",
-          "Koppeling met e-mail, kalender & Drive",
-          "Stembesturing instellen",
-          "Ochtend briefing-automatisering",
-          "4 uur ondersteuning op afstand"
-        ],
-        "useCases": [
-          {
-            "icon": "mic",
-            "title": "Vlucht boeken via stem",
-            "description": "\"Boek een vlucht naar Barcelona voor vrijdag\" — de AI zoekt, vergelijkt en stuurt het reisplan naar je mail."
-          },
-          {
-            "icon": "sun",
-            "title": "Ochtend AI-briefing",
-            "description": "Elke ochtend een samenvatting van je e-mails, agenda en relevant nieuws."
-          },
-          {
-            "icon": "mail",
-            "title": "Slimme e-mails",
-            "description": "AI leest je inbox, detecteert prioriteit en stelt antwoorden voor in jouw stijl."
-          },
-          {
-            "icon": "calendar",
-            "title": "Kalender via spraak",
-            "description": "\"Zet een afspraak met Marc morgen om 10 en stuur een invite\" — klaar."
-          }
-        ]
-      },
-      "business": {
-        "badge": "Maatwerk",
-        "title": "AI voor jouw Bedrijf",
-        "subtitle": "Jouw bedrijf, efficiënter",
-        "description": "Van e-mailtriage tot klantenservice-chatbot: ik automatiseer repetitieve taken zodat jij je kunt focussen op wat ertoe doet.",
-        "price": "Op maat",
-        "priceNote": "neem contact op",
-        "cta": "Plan een gratis gesprek",
-        "includes": [
-          "Klantenservice chatbot (NL + EN)",
-          "E-mail triage & routing",
-          "Meeting transcriptie & actiepunten",
-          "Workflow automatisering",
-          "Doorlopende ondersteuning"
-        ],
-        "useCases": [
-          {
-            "icon": "inbox",
-            "title": "E-mail triage & routing",
-            "description": "AI sorteert inkomende e-mails, labelt en routeert ze naar de juiste persoon."
-          },
-          {
-            "icon": "record",
-            "title": "Meeting transcriptie",
-            "description": "Vergaderingen opnemen, transcriberen en actiepunten per persoon extraheren."
-          },
-          {
-            "icon": "bot",
-            "title": "Klantgerichte chatbot",
-            "description": "24/7 beschikbaar in NL en EN, getraind op jouw producten en FAQ."
-          },
-          {
-            "icon": "workflow",
-            "title": "Workflow automatisering",
-            "description": "Koppel AI aan je CRM, inbox, Drive en agenda — automatiseer het repetitieve."
-          }
-        ]
-      }
-    },
-    "howItWorks": {
-      "title": "Hoe het werkt",
-      "subtitle": "Van gesprek tot werkende AI in drie stappen",
-      "inlineCta": "Klinkt goed? Plan stap 1.",
-      "steps": [
-        {
-          "step": "01",
-          "title": "Gratis videogesprek",
-          "description": "In 30 minuten bespreken we jouw situatie. Ik laat zien wat er mogelijk is en adviseer welke oplossing past."
-        },
-        {
-          "step": "02",
-          "title": "Ik kom langs en installeer alles",
-          "description": "Binnen een week kom ik op kantoor. Na 2-3 uur draait jouw AI-assistent — gekoppeld aan je e-mail, agenda en documenten."
-        },
-        {
-          "step": "03",
-          "title": "Jij bent live + 4 uur nazorg",
-          "description": "Ik laat zien hoe alles werkt. Je krijgt 4 uur support op afstand. Vragen? Ik ben bereikbaar."
-        }
-      ]
-    },
-    "pricing": {
-      "title": "Investering",
-      "subtitle": "Transparante prijzen, geen verborgen kosten",
-      "personal": {
-        "badge": "Compleet pakket",
-        "title": "Persoonlijke AI-Assistent",
-        "price": "€950",
-        "priceNote": "eenmalig · excl. BTW",
-        "includes": [
-          "Volledige configuratie op maat",
-          "Koppeling met e-mail, kalender & Drive",
-          "Stembesturing instellen",
-          "Ochtend briefing-automatisering",
-          "4 uur ondersteuning op afstand"
-        ],
-        "cta": "Plan een gratis gesprek"
-      },
-      "business": {
-        "badge": "Maatwerk",
-        "title": "Bedrijfs-AI",
-        "price": "Op maat",
-        "priceNote": "op basis van jouw situatie",
-        "includes": [
-          "Klantenservice chatbot (NL + EN)",
-          "E-mail triage & routing",
-          "Meeting transcriptie & actiepunten",
-          "Interne kennisbank",
-          "Workflow automatisering",
-          "Doorlopende ondersteuning"
-        ],
-        "cta": "Plan een gratis gesprek"
-      }
-    },
-    "about": {
-      "eyebrow": "Wie staat er voor je klaar",
-      "title": "Ik ben geen groot bedrijf.",
-      "titleAccent": "Dat is juist het punt.",
-      "description": "Ik geloof dat AI voor iedereen toegankelijk moet zijn — niet alleen voor bedrijven met een IT-afdeling. Ik kom bij je langs, zet alles op en zorg dat het werkt. Persoonlijk, direct en zonder poespas.",
-      "cta": "Plan een gratis gesprek"
-    },
-    "faq": {
-      "title": "Veelgestelde vragen",
-      "items": [
-        {
-          "question": "Is mijn data veilig?",
-          "answer": "Ja. Alles kan lokaal draaien op jouw eigen apparaat. Er gaat geen data naar de cloud tenzij jij dat wil."
-        },
-        {
-          "question": "Wat als het niet werkt of ik niet tevreden ben?",
-          "answer": "Dan krijg je je geld terug. Zo simpel is het. Ik sta achter mijn werk."
-        },
-        {
-          "question": "Ik snap niks van technologie. Is dat een probleem?",
-          "answer": "Helemaal niet — dat is juist waarom deze service bestaat. Ik regel alles, jij hoeft alleen te zeggen wat je nodig hebt."
-        },
-        {
-          "question": "Kan ik eerst zien hoe het werkt?",
-          "answer": "Ja! Tijdens het gratis kennismakingsgesprek laat ik een demo zien zodat je precies weet wat je krijgt."
-        },
-        {
-          "question": "Hoe werkt het voor mijn bedrijf?",
-          "answer": "We starten met een intake om jouw processen te begrijpen. Daarna configureer ik een oplossing op maat: chatbot, e-mailtriage, transcriptie of een combinatie."
-        },
-        {
-          "question": "Hoe snel ben ik live?",
-          "answer": "Persoonlijke assistent: binnen één dag na de intake. Bedrijfsoplossingen: 1-2 weken afhankelijk van de complexiteit."
-        },
-        {
-          "question": "Wat na de installatie?",
-          "answer": "Je krijgt 4 uur ondersteuning inbegrepen. Daarna zijn extra uren bij te boeken, of we spreken een onderhoudscontract af."
-        },
-        {
-          "question": "Wat als ik al tools gebruik zoals Gmail of Google Calendar?",
-          "answer": "Juist dan werkt het goed. Ik koppel de AI aan jouw bestaande tools zodat je niet hoeft te wisselen."
-        }
-      ]
-    },
-    "ctaBanner": {
-      "eyebrow": "Klaar om te starten?",
-      "title": "Zullen we even sparren?",
-      "subtitle": "Plan een gratis videogesprek van 30 minuten. Ik laat zien wat AI voor jouw situatie kan betekenen. Geen verplichtingen.",
-      "cta": "Plan een gratis kennismaking",
-      "ctaSubLabel": "Gratis en vrijblijvend · 30 minuten",
-      "ctaSecondary": "Of stuur een mail naar info@aivoorjou.nu"
-    },
-    "footer": {
-      "description": "Persoonlijke AI-assistenten en bedrijfsautomatisering.",
-      "navPersonal": "Persoonlijk",
-      "navBusiness": "Bedrijf",
-      "navHowItWorks": "Hoe het werkt",
-      "navPricing": "Investering",
-      "contact": "Contact",
-      "rights": "Alle rechten voorbehouden."
-    }
-  },
-  "v4": {
-    "demos": {
-      "title": "Zie het in actie",
-      "chat": {
-        "title": "AI Chat",
-        "userMessage": "Boek een vlucht naar Barcelona voor vrijdag",
-        "aiMessage": "Ik heb 3 vluchten gevonden. De beste optie:",
-        "flightAirline": "KLM",
-        "flightPrice": "€189",
-        "flightTime": "Vertrek 08:45"
-      },
-      "voice": {
-        "title": "Spraakbesturing",
-        "result": "Afspraak met Marc",
-        "resultTime": "Morgen, 10:00",
-        "label": "Agenda-update"
-      },
-      "docs": {
-        "title": "Document analyse",
-        "filename": "Contract-2026.pdf",
-        "summary": [
-          "Looptijd: 24 maanden",
-          "Opzegtermijn: 3 maanden",
-          "Waarde: €12.500 per jaar"
-        ]
-      }
-    }
-  },
-  "v5": {
-    "hero": {
-      "appTitle": "OpenClaw",
-      "statusOnline": "Online",
-      "cta": "Probeer het zelf",
-      "ctaSecondary": "Bekijk de mogelijkheden"
-    },
-    "conversations": {
-      "projectSummary": {
-        "user": "Vat project Apollo samen uit mijn Drive en mail het naar Marlies",
-        "ai": "Ik heb 14 documenten gevonden in je Drive over Project Apollo. Hier is de samenvatting:",
-        "result": "Samenvatting verstuurd naar marlies@bedrijf.nl",
-        "summaryPoints": [
-          "Budget: €45.000 — 73% besteed",
-          "Deadline: 15 april 2026",
-          "Status: 3 van 5 milestones afgerond",
-          "Openstaand: ontwerp review + eindrapport"
-        ]
-      },
-      "flightBooking": {
-        "user": "Boek een avondvlucht naar Barcelona dit weekend, terug voor 20:00 zondag",
-        "ai": "Ik heb 4 vluchten gevonden. De beste combinatie:",
-        "outbound": "Za 7 mrt · 18:30 · KLM · €156",
-        "returnFlight": "Zo 8 mrt · 15:45 · KLM · €143",
-        "total": "Totaal: €299",
-        "confirmLabel": "Boeken"
-      },
-      "morningCall": {
-        "user": "Bel me elke ochtend om 8 uur om mijn emails door te nemen",
-        "ai": "Ingesteld. Elke werkdag om 08:00 bel ik je met een voice-update over:",
-        "items": [
-          "Nieuwe e-mails (prioriteit eerst)",
-          "Agenda voor vandaag",
-          "Openstaande taken"
-        ],
-        "confirmLabel": "Eerste briefing morgen om 08:00"
-      },
-      "invoiceReminder": {
-        "user": "Stuur een herinnering naar iedereen die hun factuur niet betaald heeft na 20 dagen",
-        "ai": "Ik heb je boekhouding gecontroleerd. Resultaat:",
-        "stats": "15 openstaande facturen gevonden · 12 herinneringen verstuurd",
-        "detail": "3 facturen al in betalingsregeling — overgeslagen",
-        "confirmLabel": "Alle herinneringen verstuurd"
-      },
-      "newsDigest": {
-        "user": "Geef me elke ochtend een voice update over de laatste ontwikkelingen in de Nederlandse politiek",
-        "ai": "Voice-briefing ingesteld. Elke werkdag om 07:30 krijg je een samenvatting van:",
-        "sources": [
-          "NOS Nieuws",
-          "Tweede Kamer agenda",
-          "Relevante tweets van politici"
-        ],
-        "confirmLabel": "Eerste briefing morgen om 07:30"
-      }
-    },
-    "useCases": {
-      "title": "Zie wat OpenClaw kan",
-      "labels": [
-        "Documenten & e-mail",
-        "Reizen boeken",
-        "Ochtend briefing",
-        "Factuuropvolging",
-        "Nieuws updates"
-      ]
-    },
-    "features": {
-      "personal": {
-        "title": "Persoonlijk",
-        "description": "Kalender, e-mail, vluchten, nieuws — alles via één gesprek.",
-        "preview": "\"Boek een tafel voor 2 vanavond in Amsterdam\""
-      },
-      "business": {
-        "title": "Zakelijk",
-        "description": "Facturen, meetings, klantopvolging — geautomatiseerd.",
-        "preview": "\"Stuur alle openstaande offertes een follow-up\""
-      },
-      "always": {
-        "title": "Altijd beschikbaar",
-        "description": "Via chat, spraak of telefoon. 24/7, in het Nederlands.",
-        "preview": "\"Bel me over 5 minuten met een update\""
-      }
-    }
-  },
-  "v6": {
-    "hero": {
-      "eyebrow": "De toekomst van productiviteit",
-      "headline": "Eén assistent. Alles geregeld.",
-      "subtitle": "Van vluchten boeken tot facturen opvolgen — zie hoe OpenClaw jouw dag overneemt.",
-      "scrollLabel": "Scroll om te ontdekken"
-    },
-    "scenes": {
-      "personalLabel": "Persoonlijk",
-      "businessLabel": "Zakelijk",
-      "personal": [
-        {
-          "title": "Vluchten boeken",
-          "description": "Zeg waar je heen wilt. OpenClaw zoekt, vergelijkt en boekt.",
-          "user": "Boek een avondvlucht naar Barcelona dit weekend",
-          "ai": "4 vluchten gevonden. Beste optie: KLM za 18:30, €156. Zal ik boeken?",
-          "resultLabel": "KLM · Za 18:30 · €156"
-        },
-        {
-          "title": "Ochtend briefing",
-          "description": "Elke ochtend een persoonlijke update via spraak of tekst.",
-          "user": "Bel me om 8 uur met een overzicht van mijn dag",
-          "ai": "Goedemorgen! Je hebt 3 meetings vandaag, 12 ongelezen e-mails waarvan 2 urgent, en het wordt 18°C.",
-          "resultLabel": "Dagelijks om 08:00"
-        },
-        {
-          "title": "Slimme e-mail",
-          "description": "AI leest, sorteert en beantwoordt je e-mails in jouw stijl.",
-          "user": "Beantwoord de mail van Pieter over de offerte, zeg dat we akkoord gaan",
-          "ai": "Concept klaar. Ik heb de details uit de oorspronkelijke offerte overgenomen. Wil je het zien voor ik verstuur?",
-          "resultLabel": "Concept opgeslagen"
-        },
-        {
-          "title": "Documenten analyseren",
-          "description": "Upload een PDF of verwijs naar Drive — stel vragen in gewone taal.",
-          "user": "Wat zijn de belangrijkste voorwaarden in het contract van DataCorp?",
-          "ai": "Uit het contract (versie 3.1): Looptijd 36 maanden, opzegtermijn 90 dagen, SLA 99.5%, boeteclausule bij late betaling.",
-          "resultLabel": "4 kernpunten gevonden"
-        },
-        {
-          "title": "Kalender beheren",
-          "description": "Plan, verplaats en annuleer afspraken met één zin.",
-          "user": "Verplaats mijn meeting met Thomas naar donderdag 14:00",
-          "ai": "Verplaatst. Thomas heeft een bevestiging ontvangen met de nieuwe tijd. Ik heb ook je reistijd aangepast.",
-          "resultLabel": "Agenda bijgewerkt"
-        },
-        {
-          "title": "Slimme herinneringen",
-          "description": "Contextuele herinneringen die verder gaan dan een simpele timer.",
-          "user": "Herinner me aan het verjaardagscadeau voor Lisa als ik in de buurt van de Bijenkorf ben",
-          "ai": "Locatie-herinnering ingesteld. Ik stuur een melding zodra je binnen 200m van de Bijenkorf bent.",
-          "resultLabel": "Locatie-trigger actief"
-        }
-      ],
-      "business": [
-        {
-          "title": "Factuuropvolging",
-          "description": "Automatische herinneringen voor onbetaalde facturen.",
-          "user": "Stuur een herinnering naar klanten met facturen ouder dan 20 dagen",
-          "ai": "15 openstaande facturen gevonden. 12 herinneringen verstuurd. 3 overgeslagen (betalingsregeling).",
-          "resultLabel": "12 herinneringen verstuurd"
-        },
-        {
-          "title": "Meeting transcriptie",
-          "description": "Vergadering opnemen, transcriberen en actiepunten extraheren.",
-          "user": "Vat de meeting van vanmiddag samen en mail de actiepunten",
-          "ai": "Samenvatting klaar. 7 actiepunten verdeeld over 4 personen. E-mails worden nu verstuurd.",
-          "resultLabel": "7 actiepunten · 4 personen"
-        },
-        {
-          "title": "Klanten chatbot",
-          "description": "24/7 klantenservice getraind op jouw producten en FAQ.",
-          "user": "Hoeveel klantvragen heeft de chatbot deze week afgehandeld?",
-          "ai": "Deze week: 342 gesprekken, 89% zelfstandig afgehandeld, 38 doorgestuurd naar team. Tevredenheid: 4.6/5.",
-          "resultLabel": "342 gesprekken · 89% opgelost"
-        },
-        {
-          "title": "Project digest",
-          "description": "Wekelijkse samenvatting van alle projecten en to-do's.",
-          "user": "Geef me een overzicht van alle projecten deze week",
-          "ai": "3 projecten actief. Alpha: op schema. Beta: 2 dagen achter, blocker bij design review. Gamma: afgerond, wacht op goedkeuring.",
-          "resultLabel": "3 projecten samengevat"
-        },
-        {
-          "title": "Document generatie",
-          "description": "Offertes, rapporten en contracten genereren vanuit data.",
-          "user": "Maak een offerte voor Bedrijf X op basis van ons gesprek van vorige week",
-          "ai": "Offerte gegenereerd op basis van de meeting-notities. Inclusief scope, tijdlijn, prijsopgave €18.500. Wil je de PDF zien?",
-          "resultLabel": "Offerte-2026-047.pdf"
-        }
-      ]
-    },
-    "stats": {
-      "timeSaved": "bespaard per dag",
-      "timeSavedValue": 45,
-      "prompts": "mogelijke opdrachten",
-      "promptsValue": 500,
-      "availability": "24/7 beschikbaar"
-    },
-    "promptExplorer": {
-      "title": "Probeer een prompt",
-      "subtitle": "Klik op een voorbeeld om het resultaat te zien",
-      "personalLabel": "Persoonlijk",
-      "businessLabel": "Zakelijk",
-      "personal": [
-        { "icon": "mic", "label": "Vlucht boeken", "prompt": "Boek een retourvlucht naar Rome voor het weekend", "response": "3 opties gevonden. Goedkoopste: Transavia vr 17:00, retour zo 19:30. Totaal €178." },
-        { "icon": "sun", "label": "Ochtend update", "prompt": "Wat staat er vandaag op mijn planning?", "response": "3 meetings, 8 ongelezen e-mails (1 urgent van je accountant), en het wordt 22°C." },
-        { "icon": "mail", "label": "E-mail schrijven", "prompt": "Schrijf een bedankmail naar de spreker van gisteren", "response": "Concept klaar: persoonlijke toon, verwijzing naar het onderwerp van de lezing, uitnodiging voor koffie." },
-        { "icon": "drive", "label": "PDF samenvatten", "prompt": "Vat dit rapport samen in 5 punten", "response": "1. Omzet +12% YoY 2. EBITDA marge 18% 3. 3 nieuwe markten 4. Personeelsgroei 15% 5. Outlook: conservatief positief" },
-        { "icon": "calendar", "label": "Afspraak plannen", "prompt": "Plan lunch met Anna volgende week", "response": "Anna is beschikbaar dinsdag en donderdag. Dinsdag 12:30 ingepland bij Café Lola. Invite verstuurd." },
-        { "icon": "home", "label": "Herinnering", "prompt": "Herinner me morgen om de auto naar de garage te brengen", "response": "Herinnering ingesteld voor morgen 08:00. Ik heb ook de garage-openingstijden opgezocht: 07:30-18:00." }
-      ],
-      "business": [
-        { "icon": "inbox", "label": "Facturen opvolgen", "prompt": "Welke facturen staan nog open?", "response": "8 facturen open, totaal €23.400. Oudste: Bedrijf Y, 34 dagen, €4.200. Wil je herinneringen versturen?" },
-        { "icon": "record", "label": "Meeting samenvatten", "prompt": "Vat het klantgesprek van vanmiddag samen", "response": "45 min gesprek, 5 actiepunten. Belangrijkste: offerte sturen voor vrijdag, demo plannen week 12." },
-        { "icon": "bot", "label": "Chatbot rapport", "prompt": "Hoe presteert onze chatbot?", "response": "Deze maand: 1.240 gesprekken, 91% zelfstandig, NPS 72. Top-3 vragen: levertijd, retourbeleid, openingstijden." },
-        { "icon": "summary", "label": "Sales rapport", "prompt": "Geef me de sales cijfers van deze maand", "response": "Omzet €45.200 (target: €50.000 — 90%). 12 nieuwe deals, 3 verloren. Pipeline: €120.000." },
-        { "icon": "book", "label": "Offerte maken", "prompt": "Maak een offerte voor het webshop-project", "response": "Offerte gegenereerd: €24.500, looptijd 8 weken, 3 fasen. Gebaseerd op je standaard template + projectnotities." },
-        { "icon": "workflow", "label": "Workflow check", "prompt": "Welke automatiseringen draaien er?", "response": "6 actief: factuur-herinnering (dagelijks), lead-triage (realtime), weekrapport (ma 08:00), 3 custom flows." }
-      ]
-    }
-  },
-  "v7": {
-    "hero": {
-      "eyebrow": "Een dag met OpenClaw",
-      "headline": "Eén dag met jouw AI-assistent",
-      "subtitle": "Van 's ochtends vroeg tot 's avonds laat — ontdek hoe OpenClaw je dag overneemt.",
-      "cta": "Bekijk de dag",
-      "scrollLabel": "Scroll door de dag"
-    },
-    "timeline": {
-      "title": "Jouw dag, met AI",
-      "moments": [
-        {
-          "time": "07:00",
-          "title": "Ochtend briefing",
-          "category": "personal",
-          "user": "Goedemorgen! Wat heb ik vandaag?",
-          "ai": "Goedemorgen! Je hebt 3 meetings vandaag. 14 nieuwe e-mails — 2 zijn urgent. Het weer: 16°C, bewolkt. Wil je dat ik de urgente mails samenvat?",
-          "resultLabel": "Voice briefing om 07:00",
-          "before": "Inbox openen, 30 minuten scrollen, stress",
-          "after": "5 minuten voice-update, direct overzicht",
-          "timeSaved": 25
-        },
-        {
-          "time": "08:30",
-          "title": "Afspraak verplaatsen",
-          "category": "business",
-          "user": "Zet mijn meeting met Thomas om naar 14:00 en laat hem weten waarom",
-          "ai": "Verplaatst van 10:00 naar 14:00. Thomas heeft een bericht ontvangen: \"Wegens een planning conflict is de meeting verplaatst naar 14:00.\"",
-          "resultLabel": "Agenda + bericht bijgewerkt",
-          "before": "Agenda openen, mail schrijven, invite updaten — 10 minuten",
-          "after": "Eén zin, 10 seconden",
-          "timeSaved": 10
-        },
-        {
-          "time": "10:00",
-          "title": "Factuurherinnering",
-          "category": "business",
-          "user": "Stuur een herinnering naar iedereen die hun factuur niet betaald heeft na 20 dagen",
-          "ai": "15 openstaande facturen gecontroleerd. 12 herinneringen verstuurd per e-mail. 3 overgeslagen wegens betalingsregeling. Totaal openstaand: €34.200.",
-          "resultLabel": "12 herinneringen · €34.200 openstaand",
-          "before": "Boekhouding checken, per klant een mail schrijven — 45 minuten",
-          "after": "Eén opdracht, alles afgehandeld in 30 seconden",
-          "timeSaved": 44
-        },
-        {
-          "time": "12:30",
-          "title": "Rapport analyseren",
-          "category": "business",
-          "user": "Wat zijn de highlights uit het salesrapport van vorige week?",
-          "ai": "Top 3: 1) Omzet +18% t.o.v. vorige maand (€67.300). 2) 8 nieuwe klanten, waarvan 3 enterprise. 3) Churn gedaald naar 2.1%. Aandachtspunt: pipeline Q2 is 30% onder target.",
-          "resultLabel": "Rapport samengevat in 4 punten",
-          "before": "Rapport downloaden, 20 pagina's lezen — 30 minuten",
-          "after": "Kernpunten in 10 seconden",
-          "timeSaved": 29
-        },
-        {
-          "time": "15:00",
-          "title": "Meeting verwerken",
-          "category": "business",
-          "user": "Vat de meeting van net samen en mail de actiepunten naar alle deelnemers",
-          "ai": "Meeting samengevat (38 min). 6 actiepunten verdeeld over 3 personen. E-mails verstuurd naar Thomas, Sanne en Pieter met hun specifieke taken en deadlines.",
-          "resultLabel": "6 actiepunten · 3 e-mails verstuurd",
-          "before": "Notities uitwerken, actiepunten formuleren, mailen — 25 minuten",
-          "after": "Automatisch verwerkt terwijl je naar de volgende meeting loopt",
-          "timeSaved": 24
-        },
-        {
-          "time": "17:30",
-          "title": "Restaurant boeken",
-          "category": "personal",
-          "user": "Zoek een restaurant in Amsterdam voor 4 personen vrijdagavond, Italiaans",
-          "ai": "3 opties: 1) Toscanini — 19:30 beschikbaar, 4.7 sterren. 2) La Perla — 20:00, 4.5 sterren. 3) Sapori — 19:00, 4.6 sterren. Zal ik Toscanini reserveren?",
-          "resultLabel": "3 opties · 1 klik om te boeken",
-          "before": "Google, reviews lezen, bellen, 20 minuten",
-          "after": "Eén zin, 3 opties, direct geboekt",
-          "timeSaved": 19
-        },
-        {
-          "time": "21:00",
-          "title": "Avond samenvatting",
-          "category": "personal",
-          "user": "Geef me een samenvatting van vandaag",
-          "ai": "Vandaag afgehandeld: 4 meetings, 23 e-mails verwerkt, 12 factuurherinneringen verstuurd, 1 restaurant geboekt. Morgen: 2 meetings, deadline offerte DataCorp. Slaap lekker!",
-          "resultLabel": "Dag afgerond",
-          "before": "Onrust over wat je vergeten bent",
-          "after": "Alles op een rij, hoofd leeg",
-          "timeSaved": 5
-        }
-      ]
-    },
-    "beforeAfter": {
-      "title": "Het verschil is voelbaar",
-      "withoutLabel": "Zonder AI",
-      "withLabel": "Met OpenClaw",
-      "items": [
-        { "without": "30 min inbox scrollen", "with": "5 min voice briefing" },
-        { "without": "45 min facturen opvolgen", "with": "30 seconden, automatisch" },
-        { "without": "25 min meeting-notities uitwerken", "with": "Direct verwerkt en gemaild" },
-        { "without": "30 min rapport lezen", "with": "Kernpunten in 10 seconden" },
-        { "without": "20 min restaurant zoeken", "with": "Eén zin, direct geboekt" }
-      ],
-      "totalSaved": 156,
-      "totalLabel": "minuten bespaard op één dag"
-    },
-    "promptCards": {
-      "title": "Wat zou jij vragen?",
-      "subtitle": "Klik op een kaart om het antwoord te zien",
-      "personalLabel": "Persoonlijk",
-      "businessLabel": "Zakelijk",
-      "personal": [
-        { "icon": "mic", "prompt": "Boek een vlucht naar Lissabon voor het lange weekend", "response": "4 opties gevonden. Goedkoopste: easyJet do 19:00, retour ma 14:30. Totaal €134." },
-        { "icon": "sun", "prompt": "Wat is het weer dit weekend?", "response": "Zaterdag: 21°C, zonnig. Zondag: 19°C, wisselend bewolkt. Perfect voor een terrasje!" },
-        { "icon": "mail", "prompt": "Koop een cadeau voor mijn moeder, budget €50", "response": "3 suggesties: 1) Bol.com cadeaukaart €50. 2) Bloomon boeket €45. 3) Rituals verwenpakket €49.50." },
-        { "icon": "calendar", "prompt": "Wanneer moet mijn auto naar de APK?", "response": "Je APK verloopt op 12 mei 2026. Dichtstbijzijnde garage: AutoService Zuid, ma 11 mei 09:00." },
-        { "icon": "drive", "prompt": "Vind concerttickets voor Goldband", "response": "Goldband speelt op 24 april in AFAS Live, Amsterdam. Tickets vanaf €38,50. 2 categorieën beschikbaar." },
-        { "icon": "home", "prompt": "Vat het boek samen dat ik vorige maand las", "response": "\"De Meeste Mensen Deugen\" van Bregman: kernboodschap is dat mensen van nature geneigd zijn tot samenwerking. 3 kernhoofdstukken samengevat." }
-      ],
-      "business": [
-        { "icon": "inbox", "prompt": "Hoeveel omzet hebben we deze maand?", "response": "Omzet maart: €52.300 (target: €55.000 — 95%). 14 nieuwe orders, gemiddelde orderwaarde €3.736." },
-        { "icon": "record", "prompt": "Wie heeft er deze week verlof?", "response": "Ma-vr: Sanne (heel de week). Wo-vr: Thomas. Do: Lisa (middag). Minimale bezetting woensdag." },
-        { "icon": "summary", "prompt": "Genereer een maandrapport voor het bestuur", "response": "Rapport gegenereerd: 6 pagina's, inclusief financiën, KPI's, projectstatus en forecast. PDF klaar." },
-        { "icon": "bot", "prompt": "Beantwoord de 5 oudste onbeantwoorde e-mails", "response": "5 concepten opgesteld. 3 klant-updates, 1 leveranciersbevestiging, 1 intern. Wil je ze reviewen?" },
-        { "icon": "book", "prompt": "Vergelijk onze cijfers met vorig kwartaal", "response": "Q1 vs Q4: Omzet +8%, nieuwe klanten +22%, churn -0.3 pp. Sterkste groei in segment Enterprise." },
-        { "icon": "workflow", "prompt": "Hoeveel uur hebben we aan Project X besteed?", "response": "Project X: 234 uur totaal, 68% van budget. Team: Jan 82u, Sanne 67u, Pieter 45u, overig 40u." }
-      ]
-    }
-  },
-  "v9": {
-    "hero": {
-      "headline": "Stel een vraag.",
-      "subtitle": "Dit is een simulatie van jouw toekomstige AI-assistent. Typ iets — of kies een voorbeeld.",
-      "chips": ["Boek een vlucht naar Barcelona", "Wat heb ik vandaag?", "Vat dit rapport samen", "Wat kost het?"]
-    },
-    "chat": {
-      "welcome": "Hoi! Ik ben OpenClaw, jouw AI-assistent. Stel me een vraag, of kies een voorbeeld hieronder.",
-      "inputPlaceholder": "Typ een vraag...",
-      "statusOnline": "Online",
-      "minimizedLabel": "Stel een vraag...",
-      "suggestionsLabel": "Suggesties"
-    },
-    "capabilities": {
-      "title": "Wat kan OpenClaw?",
-      "subtitle": "Klik op 'Probeer' om het zelf te zien.",
-      "tryButton": "Probeer",
-      "items": [
-        { "icon": "mail", "title": "E-mail beheren", "description": "Lezen, beantwoorden, sorteren — in jouw stijl.", "tryPrompt": "Beantwoord de laatste 3 e-mails" },
-        { "icon": "calendar", "title": "Agenda regelen", "description": "Plannen, verplaatsen, uitnodigen — via tekst of spraak.", "tryPrompt": "Wat staat er vandaag op mijn planning?" },
-        { "icon": "drive", "title": "Documenten analyseren", "description": "PDF uploaden, vragen stellen, samenvatten.", "tryPrompt": "Vat het salesrapport samen in 3 punten" },
-        { "icon": "mic", "title": "Spraakbesturing", "description": "Alles wat je typt, kun je ook zeggen.", "tryPrompt": "Bel me morgen om 8 met een update" },
-        { "icon": "inbox", "title": "Facturen opvolgen", "description": "Automatische herinneringen, overzichten, opvolging.", "tryPrompt": "Welke facturen staan nog open?" },
-        { "icon": "bot", "title": "Klantenservice chatbot", "description": "24/7 beschikbaar, getraind op jouw producten.", "tryPrompt": "Hoe presteert onze chatbot?" }
-      ]
-    },
-    "responseWall": {
-      "title": "Wat zou jij vragen?",
-      "subtitle": "Klik op een voorbeeld om het antwoord te zien.",
-      "personalLabel": "Persoonlijk",
-      "businessLabel": "Zakelijk",
-      "personal": [
-        { "icon": "mic", "prompt": "Boek een vlucht naar Rome dit weekend", "response": "3 opties gevonden. Goedkoopste: Transavia vr 17:00, retour zo 19:30. Totaal €178." },
-        { "icon": "sun", "prompt": "Wat staat er vandaag op mijn planning?", "response": "3 meetings, 8 ongelezen e-mails (1 urgent van je accountant), en het wordt 22 graden." },
-        { "icon": "mail", "prompt": "Schrijf een bedankmail naar de spreker", "response": "Concept klaar: persoonlijke toon, verwijzing naar het onderwerp, uitnodiging voor koffie." },
-        { "icon": "calendar", "prompt": "Plan lunch met Anna volgende week", "response": "Anna is beschikbaar di en do. Dinsdag 12:30 ingepland bij Cafe Lola. Invite verstuurd." },
-        { "icon": "drive", "prompt": "Vat dit contract samen", "response": "Looptijd 36 maanden, opzegtermijn 90 dagen, SLA 99.5%, boeteclausule bij late betaling." },
-        { "icon": "home", "prompt": "Herinner me aan het cadeau voor Lisa", "response": "Locatie-herinnering ingesteld. Melding zodra je in de buurt van de Bijenkorf bent." }
-      ],
-      "business": [
-        { "icon": "inbox", "prompt": "Welke facturen staan nog open?", "response": "8 facturen open, totaal €23.400. Oudste: Bedrijf Y, 34 dagen, €4.200." },
-        { "icon": "record", "prompt": "Vat de meeting van vanmiddag samen", "response": "45 min gesprek, 5 actiepunten. Belangrijkste: offerte sturen voor vrijdag." },
-        { "icon": "bot", "prompt": "Hoe presteert onze chatbot?", "response": "Deze maand: 1.240 gesprekken, 91% zelfstandig, NPS 72. Top-3 vragen: levertijd, retourbeleid, openingstijden." },
-        { "icon": "summary", "prompt": "Geef me de sales cijfers", "response": "Omzet €45.200 (target: €50.000 — 90%). 12 nieuwe deals, 3 verloren. Pipeline: €120.000." },
-        { "icon": "book", "prompt": "Maak een offerte voor het webshop-project", "response": "Offerte gegenereerd: €24.500, looptijd 8 weken, 3 fasen. Gebaseerd op je template + notities." },
-        { "icon": "workflow", "prompt": "Welke automatiseringen draaien er?", "response": "6 actief: factuur-herinnering (dagelijks), lead-triage (realtime), weekrapport (ma 08:00), 3 custom flows." }
-      ]
-    },
-    "responses": {
-      "greeting": "Hoi! Ik ben OpenClaw. Waarmee kan ik je helpen? Je kunt me vragen over vluchten, e-mail, agenda, documenten en meer.",
-      "flight": "3 vluchten gevonden. Beste optie: KLM za 18:30, €156. Retour zo 15:45, €143. Totaal: €299. Zal ik boeken?",
-      "calendar": "Goedemorgen! Je hebt 3 meetings vandaag, 12 ongelezen e-mails waarvan 2 urgent, en het wordt 18 graden.",
-      "email": "Ik heb je inbox geanalyseerd. 14 nieuwe e-mails — 2 urgent (klant wacht op offerte, leverancier vraagt bevestiging). 5 nieuwsbrieven gearchiveerd. Wil je dat ik de urgente beantwoord?",
-      "document": "Rapport geanalyseerd. Kernpunten: 1) Omzet +12% YoY 2) EBITDA marge 18% 3) 3 nieuwe markten 4) Personeelsgroei 15%.",
-      "invoice": "15 openstaande facturen gecontroleerd. 12 herinneringen verstuurd. 3 overgeslagen (betalingsregeling). Totaal openstaand: €34.200.",
-      "pricing": "De persoonlijke AI-assistent kost eenmalig €950 (excl. BTW). Inclusief: volledige configuratie, koppeling met e-mail/kalender/Drive, stembesturing, 4 uur support. Geen abonnement. Niet tevreden? Geld terug.",
-      "howItWorks": "Het werkt in 3 stappen: 1) Gratis videogesprek van 20 min 2) Ik kom langs en installeer alles (2-3 uur) 3) Jij bent live + 4 uur nazorg. Binnen een week operationeel.",
-      "privacy": "Alles kan 100% lokaal draaien op jouw eigen apparaat. Geen data naar de cloud, geen derden. Jij hebt volledige controle.",
-      "fallback": "Goede vraag! In het echt zou ik dit direct voor je regelen. Wil je zien hoe het werkt?"
-    }
+    "title": "AIvoorU | AI-consultancy & implementatie voor ZZP en MKB",
+    "description": "AI-consultancy en technische implementatie voor ZZP'ers en MKB in Nederland. Van strategie tot werkende AI-oplossingen. Persoonlijk opgezet door een AI-specialist."
   },
   "v10": {
     "meta": {
-      "title": "AIvoorU | Laat je bedrijf groeien met AI",
-      "description": "Ik help freelancers en kleine bedrijven tijd besparen, meer klanten winnen en groeien — met AI-oplossingen op maat van jouw workflow."
+      "title": "AIvoorU | AI-consultancy & implementatie voor ZZP en MKB",
+      "description": "AI-consultancy en technische implementatie voor ZZP'ers en MKB in Nederland. Van strategie tot werkende AI-oplossingen. Persoonlijk opgezet door een AI-specialist."
     },
     "header": {
       "useCases": "Toepassingen",
@@ -852,7 +15,7 @@
       "cta": "Plan een gratis gesprek"
     },
     "hero": {
-      "eyebrow": "AI-adoptie voor kleine bedrijven & freelancers",
+      "eyebrow": "AI-consultancy voor ZZP'ers & MKB",
       "headline": "Je concurrenten gebruiken al AI.",
       "headlineAccent": "En jij?",
       "subtitle": "Ik help freelancers en kleine bedrijven om uren per week te besparen, klanten beter te bedienen en sneller te groeien — met AI die écht past bij jouw werkwijze.",
@@ -889,92 +52,224 @@
           "title": "Jouw Persoonlijke AI-Assistent",
           "subtitle": "Een AI die jouw bedrijf kent, jouw toon, jouw processen — 24/7 beschikbaar.",
           "items": [
-            { "title": "Beantwoord vragen zoals jij dat zou doen", "description": "Train je AI op jouw kennisbank en werkwijze. Het antwoordt klanten en partners precies zoals jij — zelfs om 3 uur 's nachts." },
-            { "title": "Onthoud alles, vergeet niets", "description": "Je AI onthoudt elk gesprek, elke voorkeur, elk klantdetail. Nooit meer graven in e-mails of notities." },
-            { "title": "Denkt mee en doet suggesties", "description": "Brainstorm ideeën, stel offertes op, maak meeting-samenvattingen of onderzoek een onderwerp — je AI regelt het." },
-            { "title": "Spreekt jouw taal", "description": "Je assistent past zich aan aan jouw merkstem, jargon en stijl. Het is geen generieke AI — het is jóúw AI." },
-            { "title": "Groeit met je mee", "description": "Begin simpel, breid dan uit naar planning, opvolging, rapportage en meer. ROI zichtbaar binnen 90 dagen." },
-            { "title": "Bereikbaar via spraak, chat en e-mail", "description": "Praat, typ of mail — je AI reageert op elk kanaal. Via WhatsApp, Slack, spraak of gewoon je browser." },
-            { "title": "Dagelijkse briefing op maat", "description": "Elke ochtend een samenvatting van je inbox, agenda en openstaande taken. Begin je dag met overzicht in plaats van chaos." }
+            {
+              "title": "Beantwoord vragen zoals jij dat zou doen",
+              "description": "Train je AI op jouw kennisbank en werkwijze. Het antwoordt klanten en partners precies zoals jij — zelfs om 3 uur 's nachts."
+            },
+            {
+              "title": "Onthoud alles, vergeet niets",
+              "description": "Je AI onthoudt elk gesprek, elke voorkeur, elk klantdetail. Nooit meer graven in e-mails of notities."
+            },
+            {
+              "title": "Denkt mee en doet suggesties",
+              "description": "Brainstorm ideeën, stel offertes op, maak meeting-samenvattingen of onderzoek een onderwerp — je AI regelt het."
+            },
+            {
+              "title": "Spreekt jouw taal",
+              "description": "Je assistent past zich aan aan jouw merkstem, jargon en stijl. Het is geen generieke AI — het is jóúw AI."
+            },
+            {
+              "title": "Groeit met je mee",
+              "description": "Begin simpel, breid dan uit naar planning, opvolging, rapportage en meer. ROI zichtbaar binnen 90 dagen."
+            },
+            {
+              "title": "Bereikbaar via spraak, chat en e-mail",
+              "description": "Praat, typ of mail — je AI reageert op elk kanaal. Via WhatsApp, Slack, spraak of gewoon je browser."
+            },
+            {
+              "title": "Dagelijkse briefing op maat",
+              "description": "Elke ochtend een samenvatting van je inbox, agenda en openstaande taken. Begin je dag met overzicht in plaats van chaos."
+            }
           ]
         },
         {
           "title": "Klantenservice & Klantcontact",
           "subtitle": "Nooit meer een klantvraag missen. Sneller reageren, meer oplossen, beter behouden.",
           "items": [
-            { "title": "24/7 klantrespons zonder extra personeel", "description": "AI-chatbots handelen tot 79% van routinevragen zelfstandig af. Reactietijd daalt 60%, tevredenheid stijgt 40%." },
-            { "title": "Minder werkdruk voor je team", "description": "AI neemt repetitieve vragen over — bestelstatus, prijzen, FAQ — en verlaagt de werkdruk met tot 70%." },
-            { "title": "Hogere klantretentie", "description": "Bedrijven met AI voor klantenservice zien 20% meer retentie en €3,50 retour per geïnvesteerde €1." },
-            { "title": "Automatische follow-ups", "description": "AI stuurt tijdige follow-ups na aankopen of afspraken. 18% meer terugkerende klanten door follow-ups alleen." },
-            { "title": "Meertalige ondersteuning", "description": "AI beantwoordt klantvragen in het Nederlands, Engels, Duits en meer — zonder extra personeel voor elke taal." }
+            {
+              "title": "24/7 klantrespons zonder extra personeel",
+              "description": "AI-chatbots handelen tot 79% van routinevragen zelfstandig af. Reactietijd daalt 60%, tevredenheid stijgt 40%."
+            },
+            {
+              "title": "Minder werkdruk voor je team",
+              "description": "AI neemt repetitieve vragen over — bestelstatus, prijzen, FAQ — en verlaagt de werkdruk met tot 70%."
+            },
+            {
+              "title": "Hogere klantretentie",
+              "description": "Bedrijven met AI voor klantenservice zien 20% meer retentie en €3,50 retour per geïnvesteerde €1."
+            },
+            {
+              "title": "Automatische follow-ups",
+              "description": "AI stuurt tijdige follow-ups na aankopen of afspraken. 18% meer terugkerende klanten door follow-ups alleen."
+            },
+            {
+              "title": "Meertalige ondersteuning",
+              "description": "AI beantwoordt klantvragen in het Nederlands, Engels, Duits en meer — zonder extra personeel voor elke taal."
+            }
           ]
         },
         {
           "title": "Marketing & Content Creatie",
           "subtitle": "Meer content produceren, meer mensen bereiken, minder tijd kwijt — zonder team aan te nemen.",
           "items": [
-            { "title": "Blogs, posts & nieuwsbrieven in een fractie van de tijd", "description": "Blogcreatie daalt van 8-10 uur naar minder dan 2 uur. Verdubbel je output zonder extra personeel." },
-            { "title": "Gepersonaliseerde e-mailcampagnes", "description": "AI schrijft, personaliseert en optimaliseert e-mailreeksen. 20% kostenbesparing, 80% omzetgroei." },
-            { "title": "Social media op autopilot", "description": "Automatische planning, bijschriften, hashtag-optimalisatie. Een volledige AI-marketingstack voor slechts €90-€150/maand." },
-            { "title": "SEO-content die gevonden wordt", "description": "AI genereert geoptimaliseerde koppen, beschrijvingen en zoekwoordstrategieën. 30-60% snellere contentproductie." },
-            { "title": "Consistente merkidentiteit", "description": "Train AI op jouw merkstem en stijl. Elke content blijft on-brand, van Instagram tot white papers." },
-            { "title": "A/B-testen zonder moeite", "description": "AI genereert meerdere varianten van koppen, CTA's en e-mails. Test automatisch welke versie het best presteert." }
+            {
+              "title": "Blogs, posts & nieuwsbrieven in een fractie van de tijd",
+              "description": "Blogcreatie daalt van 8-10 uur naar minder dan 2 uur. Verdubbel je output zonder extra personeel."
+            },
+            {
+              "title": "Gepersonaliseerde e-mailcampagnes",
+              "description": "AI schrijft, personaliseert en optimaliseert e-mailreeksen. 20% kostenbesparing, 80% omzetgroei."
+            },
+            {
+              "title": "Social media op autopilot",
+              "description": "Automatische planning, bijschriften, hashtag-optimalisatie. Een volledige AI-marketingstack voor slechts €90-€150/maand."
+            },
+            {
+              "title": "SEO-content die gevonden wordt",
+              "description": "AI genereert geoptimaliseerde koppen, beschrijvingen en zoekwoordstrategieën. 30-60% snellere contentproductie."
+            },
+            {
+              "title": "Consistente merkidentiteit",
+              "description": "Train AI op jouw merkstem en stijl. Elke content blijft on-brand, van Instagram tot white papers."
+            },
+            {
+              "title": "A/B-testen zonder moeite",
+              "description": "AI genereert meerdere varianten van koppen, CTA's en e-mails. Test automatisch welke versie het best presteert."
+            }
           ]
         },
         {
           "title": "Sales & Leadgeneratie",
           "subtitle": "Meer leads vinden, sneller reageren, meer deals sluiten — met minder handmatig werk.",
           "items": [
-            { "title": "Leads automatisch kwalificeren", "description": "AI scoort leads op gedrag en fit. 36% meer salesklare leads, 23% hogere conversie." },
-            { "title": "Sneller reageren = meer sluiten", "description": "AI-geautomatiseerde reacties zijn 70% sneller. Eén bedrijf sloot 31% meer deals door in minuten te reageren." },
-            { "title": "Slimme productaanbevelingen", "description": "AI suggereert producten op basis van gedrag. 15% grotere winkelwagens, 12% betere retentie, ROI in 45 dagen." },
-            { "title": "Offertes in minuten, niet uren", "description": "Offertes schrijven daalt van 2 uur naar 20 minuten. Dat is 8+ uur bespaard per maand op slechts 5 offertes." },
-            { "title": "CRM-verrijking op autopilot", "description": "AI vult klantprofielen aan met openbare data, eerdere interacties en social media. Altijd een compleet beeld voor je sales-gesprek." },
-            { "title": "Pipeline forecasting", "description": "AI voorspelt welke deals waarschijnlijk sluiten en waar je pipeline gaten heeft. Stuur bij vóór het te laat is." }
+            {
+              "title": "Leads automatisch kwalificeren",
+              "description": "AI scoort leads op gedrag en fit. 36% meer salesklare leads, 23% hogere conversie."
+            },
+            {
+              "title": "Sneller reageren = meer sluiten",
+              "description": "AI-geautomatiseerde reacties zijn 70% sneller. Eén bedrijf sloot 31% meer deals door in minuten te reageren."
+            },
+            {
+              "title": "Slimme productaanbevelingen",
+              "description": "AI suggereert producten op basis van gedrag. 15% grotere winkelwagens, 12% betere retentie, ROI in 45 dagen."
+            },
+            {
+              "title": "Offertes in minuten, niet uren",
+              "description": "Offertes schrijven daalt van 2 uur naar 20 minuten. Dat is 8+ uur bespaard per maand op slechts 5 offertes."
+            },
+            {
+              "title": "CRM-verrijking op autopilot",
+              "description": "AI vult klantprofielen aan met openbare data, eerdere interacties en social media. Altijd een compleet beeld voor je sales-gesprek."
+            },
+            {
+              "title": "Pipeline forecasting",
+              "description": "AI voorspelt welke deals waarschijnlijk sluiten en waar je pipeline gaten heeft. Stuur bij vóór het te laat is."
+            }
           ]
         },
         {
           "title": "Administratie & Financieel",
           "subtitle": "Stop met verdrinken in papierwerk. Laat AI het saaie werk doen.",
           "items": [
-            { "title": "Automatische boekhouding & facturatie", "description": "AI haalt data uit facturen, categoriseert uitgaven en plant betalingen. 93% van boekhoudprofessionals gebruikt al AI." },
-            { "title": "7 extra weken per medewerker per jaar", "description": "Dat is de gemeten productiviteitswinst van AI in boekhoudtaken. Tijd verschuift van data-invoer naar strategie." },
-            { "title": "Cashflow voorspellingen", "description": "AI analyseert patronen om cashflow te voorspellen, tekorten te signaleren en actie voor te stellen. Minder verrassingen." },
-            { "title": "Minder fouten, betere compliance", "description": "AI vermindert invoerfouten en houdt administratie audit-proof. Schonere boeken, minder stress." },
-            { "title": "Automatische onkostendeclaraties", "description": "Foto van bon maken, AI extraheert bedrag, categorie en BTW. Declaratie klaar in seconden in plaats van minuten." }
+            {
+              "title": "Automatische boekhouding & facturatie",
+              "description": "AI haalt data uit facturen, categoriseert uitgaven en plant betalingen. 93% van boekhoudprofessionals gebruikt al AI."
+            },
+            {
+              "title": "7 extra weken per medewerker per jaar",
+              "description": "Dat is de gemeten productiviteitswinst van AI in boekhoudtaken. Tijd verschuift van data-invoer naar strategie."
+            },
+            {
+              "title": "Cashflow voorspellingen",
+              "description": "AI analyseert patronen om cashflow te voorspellen, tekorten te signaleren en actie voor te stellen. Minder verrassingen."
+            },
+            {
+              "title": "Minder fouten, betere compliance",
+              "description": "AI vermindert invoerfouten en houdt administratie audit-proof. Schonere boeken, minder stress."
+            },
+            {
+              "title": "Automatische onkostendeclaraties",
+              "description": "Foto van bon maken, AI extraheert bedrag, categorie en BTW. Declaratie klaar in seconden in plaats van minuten."
+            }
           ]
         },
         {
           "title": "Planning & Agendabeheer",
           "subtitle": "Win 5-10 uur per week terug door AI je agenda en operaties te laten beheren.",
           "items": [
-            { "title": "Afspraken boeken zonder heen-en-weer", "description": "AI regelt boekingen, bevestigingen en herplanningen. Eén kliniek verlaagde no-shows van 18% naar slechts 6%." },
-            { "title": "Slimme personeelsplanning", "description": "AI optimaliseert roosters op basis van vraag, beschikbaarheid en vaardigheden. Tot 25% lagere operationele kosten." },
-            { "title": "Automatische herinneringen & opvolging", "description": "Nooit meer gemiste afspraken of vergeten follow-ups. AI stuurt herinneringen via e-mail, SMS of chat." },
-            { "title": "Projecten en taken bijhouden", "description": "AI volgt deadlines, signaleert bottlenecks en prioriteert je to-do lijst. Bespaar 5-10 uur per week." },
-            { "title": "Reistijd en routeoptimalisatie", "description": "AI plant afspraken slim achter elkaar en houdt rekening met reistijd. Minder rijden, meer klantcontact." }
+            {
+              "title": "Afspraken boeken zonder heen-en-weer",
+              "description": "AI regelt boekingen, bevestigingen en herplanningen. Eén kliniek verlaagde no-shows van 18% naar slechts 6%."
+            },
+            {
+              "title": "Slimme personeelsplanning",
+              "description": "AI optimaliseert roosters op basis van vraag, beschikbaarheid en vaardigheden. Tot 25% lagere operationele kosten."
+            },
+            {
+              "title": "Automatische herinneringen & opvolging",
+              "description": "Nooit meer gemiste afspraken of vergeten follow-ups. AI stuurt herinneringen via e-mail, SMS of chat."
+            },
+            {
+              "title": "Projecten en taken bijhouden",
+              "description": "AI volgt deadlines, signaleert bottlenecks en prioriteert je to-do lijst. Bespaar 5-10 uur per week."
+            },
+            {
+              "title": "Reistijd en routeoptimalisatie",
+              "description": "AI plant afspraken slim achter elkaar en houdt rekening met reistijd. Minder rijden, meer klantcontact."
+            }
           ]
         },
         {
           "title": "Kennis & Onderzoek",
           "subtitle": "Ken je markt, volg concurrenten, spot kansen — zonder uren lezen.",
           "items": [
-            { "title": "Marktonderzoek in minuten", "description": "AI scant en vat brancherapporten, nieuws en trends samen. Bespaar 1-2 uur per klant op onderzoek." },
-            { "title": "Concurrentie-analyse op autopilot", "description": "AI monitort concurrentieprijzen, producten en marketing. Bruikbare samenvattingen in plaats van avonden op hun site." },
-            { "title": "Data-gedreven beslissingen", "description": "AI analyseert je salestrends, klantgedrag en seizoenspatronen. 15% minder overstock, 10% meer omzet." },
-            { "title": "Trends spotten voor je concurrenten", "description": "AI identificeert opkomende trends uit social media, zoekdata en nieuws. Wees de eerste die handelt." },
-            { "title": "Interne kennisbank doorzoekbaar maken", "description": "AI maakt al je documenten, handleidingen en processen doorzoekbaar met gewone vragen. Geen zoeken meer, gewoon vragen." }
+            {
+              "title": "Marktonderzoek in minuten",
+              "description": "AI scant en vat brancherapporten, nieuws en trends samen. Bespaar 1-2 uur per klant op onderzoek."
+            },
+            {
+              "title": "Concurrentie-analyse op autopilot",
+              "description": "AI monitort concurrentieprijzen, producten en marketing. Bruikbare samenvattingen in plaats van avonden op hun site."
+            },
+            {
+              "title": "Data-gedreven beslissingen",
+              "description": "AI analyseert je salestrends, klantgedrag en seizoenspatronen. 15% minder overstock, 10% meer omzet."
+            },
+            {
+              "title": "Trends spotten voor je concurrenten",
+              "description": "AI identificeert opkomende trends uit social media, zoekdata en nieuws. Wees de eerste die handelt."
+            },
+            {
+              "title": "Interne kennisbank doorzoekbaar maken",
+              "description": "AI maakt al je documenten, handleidingen en processen doorzoekbaar met gewone vragen. Geen zoeken meer, gewoon vragen."
+            }
           ]
         },
         {
           "title": "HR & Personeelszaken",
           "subtitle": "Van werving tot onboarding en dagelijkse HR-taken — sneller en persoonlijker met AI.",
           "items": [
-            { "title": "Vacatureteksten in minuten", "description": "AI schrijft wervende vacatureteksten op basis van functie-eisen en jouw bedrijfscultuur. 75% sneller dan handmatig." },
-            { "title": "CV-screening op schaal", "description": "AI beoordeelt cv's op relevante ervaring, vaardigheden en cultuurfit. Bespaar uren per vacature op eerste selectie." },
-            { "title": "Onboarding geautomatiseerd", "description": "Nieuwe medewerkers krijgen een AI-buddy die vragen beantwoordt over processen, tools en huisregels. Sneller productief." },
-            { "title": "Verlofregistratie & roosterwijzigingen", "description": "Medewerkers vragen verlof aan via chat. AI checkt beschikbaarheid, past het rooster aan en bevestigt." },
-            { "title": "Medewerkerstevredenheid meten", "description": "AI verstuurt korte pulse-surveys en analyseert trends in tevredenheid. Vroegtijdig signalen oppakken vóór het een probleem wordt." }
+            {
+              "title": "Vacatureteksten in minuten",
+              "description": "AI schrijft wervende vacatureteksten op basis van functie-eisen en jouw bedrijfscultuur. 75% sneller dan handmatig."
+            },
+            {
+              "title": "CV-screening op schaal",
+              "description": "AI beoordeelt cv's op relevante ervaring, vaardigheden en cultuurfit. Bespaar uren per vacature op eerste selectie."
+            },
+            {
+              "title": "Onboarding geautomatiseerd",
+              "description": "Nieuwe medewerkers krijgen een AI-buddy die vragen beantwoordt over processen, tools en huisregels. Sneller productief."
+            },
+            {
+              "title": "Verlofregistratie & roosterwijzigingen",
+              "description": "Medewerkers vragen verlof aan via chat. AI checkt beschikbaarheid, past het rooster aan en bevestigt."
+            },
+            {
+              "title": "Medewerkerstevredenheid meten",
+              "description": "AI verstuurt korte pulse-surveys en analyseert trends in tevredenheid. Vroegtijdig signalen oppakken vóór het een probleem wordt."
+            }
           ]
         }
       ]
@@ -1019,7 +314,8 @@
       "title": "Ik ben geen groot consultancybureau.",
       "titleAccent": "Dat is juist het punt.",
       "description": "Ik geloof dat elke freelancer en elk klein bedrijf toegang verdient tot AI — zonder enterpriseprijzen of technisch jargon. Ik werk hands-on, houd het persoonlijk en ga niet weg tot het écht werkt voor jou.",
-      "cta": "Plan een gratis gesprek"
+      "cta": "Plan een gratis gesprek",
+      "aboutPhotoAlt": "Oprichter AIvoorU - AI-specialist voor ZZP'ers en MKB in Nederland"
     },
     "faq": {
       "title": "Veelgestelde vragen",
@@ -1065,6 +361,18 @@
       "cta": "Plan een gratis gesprek",
       "ctaSubLabel": "Gratis en vrijblijvend · 30 minuten",
       "ctaSecondary": "Of mail me op info@aivooru.nu"
+    },
+    "footer": {
+      "brand": "AIvoorU",
+      "tagline": "AI-oplossingen op maat voor freelancers en kleine bedrijven.",
+      "nav": "Navigatie",
+      "useCases": "Toepassingen",
+      "howItWorks": "Hoe het werkt",
+      "about": "Over mij",
+      "contact": "Contact",
+      "contactTitle": "Contact",
+      "email": "info@aivooru.nu",
+      "copyright": "© {year} AIvoorU. Alle rechten voorbehouden."
     }
   }
 }

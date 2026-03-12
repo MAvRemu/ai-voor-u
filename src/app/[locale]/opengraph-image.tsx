@@ -1,11 +1,22 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const alt = "AIvoorjou - Slim werken begint bij jou";
+export const alt = "AIvoorU - AI consultancy & implementation";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-export default function OgImage() {
+export default async function OgImage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+
+  const tagline =
+    locale === "nl"
+      ? "AI-consultancy & implementatie voor ZZP en MKB"
+      : "AI consultancy & implementation for freelancers & SMBs";
+
   return new ImageResponse(
     (
       <div
@@ -30,7 +41,7 @@ export default function OgImage() {
           }}
         >
           <span style={{ color: "rgba(255,255,255,0.9)" }}>AI</span>
-          <span style={{ color: "white" }}>voorjou</span>
+          <span style={{ color: "white" }}>voorU</span>
         </div>
         <div
           style={{
@@ -41,7 +52,7 @@ export default function OgImage() {
             letterSpacing: "0.01em",
           }}
         >
-          Slim werken begint bij jou
+          {tagline}
         </div>
         <div
           style={{

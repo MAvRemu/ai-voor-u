@@ -14,29 +14,19 @@
   --color-violet-dark: #7C3AED;
   --color-violet-light: #C4B5FD;
 
-  /* Legacy neutrals (kept for v1 route) */
+  /* Neutrals */
   --color-navy: #0F172A;
   --color-slate: #64748B;
   --color-slate-light: #94A3B8;
   --color-ice: #F0F9FF;
 
-  /* Dark theme backgrounds */
-  --color-dark: #0a0a0a;
-  --color-dark-surface: #111111;
-  --color-dark-elevated: #1a1a1a;
-  --color-dark-card: #141414;
-
-  /* Glow shadows */
-  --shadow-glow-teal: 0 0 40px rgba(14, 165, 233, 0.25);
-  --shadow-glow-violet: 0 0 40px rgba(139, 92, 246, 0.25);
-  --shadow-glow-combined: 0 0 60px rgba(14, 165, 233, 0.15), 0 0 60px rgba(139, 92, 246, 0.15);
 
   /* Animations */
   --animate-marquee: marquee 40s linear infinite;
   --animate-marquee-reverse: marquee-reverse 40s linear infinite;
   --animate-gradient-shift: gradient-shift 3s linear infinite;
   --animate-border-rotate: border-rotate 4s linear infinite;
-  --animate-float: float 6s ease-in-out infinite;
+
   --animate-shimmer: shimmer 2s linear infinite;
   --animate-pulse-glow: pulse-glow 3s ease-in-out infinite;
 }
@@ -61,11 +51,6 @@
   100% { transform: rotate(360deg); }
 }
 
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-}
-
 @keyframes shimmer {
   0% { transform: translateX(-100%); }
   100% { transform: translateX(100%); }
@@ -80,12 +65,6 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  background-color: var(--color-dark);
-  color: #ffffff;
-  font-family: var(--font-sans), system-ui, sans-serif;
-}
-
 ::selection {
   background-color: var(--color-teal);
   color: white;
@@ -94,49 +73,6 @@ body {
 /* Offset scroll targets for sticky header */
 [id] {
   scroll-margin-top: 5rem;
-}
-
-/* Glassmorphism utilities */
-.glass {
-  background: rgba(255, 255, 255, 0.03);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-}
-
-.glass-strong {
-  background: rgba(255, 255, 255, 0.06);
-  backdrop-filter: blur(40px);
-  -webkit-backdrop-filter: blur(40px);
-  border: 1px solid rgba(255, 255, 255, 0.12);
-}
-
-/* Light glassmorphism utilities */
-.glass-light {
-  background: rgba(0, 0, 0, 0.02);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  border: 1px solid rgba(15, 23, 42, 0.06);
-}
-
-.glass-light-strong {
-  background: rgba(0, 0, 0, 0.03);
-  backdrop-filter: blur(40px);
-  -webkit-backdrop-filter: blur(40px);
-  border: 1px solid rgba(15, 23, 42, 0.08);
-}
-
-/* Grain texture overlay */
-.grain::after {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 9999;
-  opacity: 0.035;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
-  background-repeat: repeat;
-  background-size: 256px 256px;
 }
 
 /* Animated gradient text utility */
@@ -167,31 +103,6 @@ body {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
-  .grain::after {
-    display: none;
-  }
-}
-
-/* Bento grid layout */
-.bento-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: minmax(160px, auto);
-  gap: 1rem;
-}
-
-@media (max-width: 768px) {
-  .bento-grid {
-    grid-template-columns: 1fr;
-    grid-auto-rows: auto;
-  }
-}
-
-/* Screen mockup frame */
-.screen-mockup {
-  border-radius: 1rem;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(15, 23, 42, 0.05);
-  overflow: hidden;
 }
 
 /* Keyboard focus styles */
@@ -199,24 +110,6 @@ body {
   outline: 2px solid var(--color-teal);
   outline-offset: 2px;
   border-radius: 4px;
-}
-
-/* V5: Chat window styling */
-.chat-window {
-  background: var(--color-dark-card);
-  border: 1px solid rgba(255, 255, 255, 0.06);
-  border-radius: 1.25rem;
-  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.4);
-}
-
-.chat-topbar {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  padding: 0.875rem 1.25rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-  background: var(--color-dark-elevated);
-  border-radius: 1.25rem 1.25rem 0 0;
 }
 
 .chat-bubble-user {
@@ -230,16 +123,16 @@ body {
 }
 
 .chat-bubble-ai {
-  background: var(--color-dark-elevated);
-  color: rgba(255, 255, 255, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: rgba(15, 23, 42, 0.04);
+  color: var(--color-navy);
+  border: 1px solid rgba(15, 23, 42, 0.06);
   padding: 0.625rem 1rem;
   border-radius: 1rem 1rem 1rem 0.25rem;
   font-size: 0.875rem;
   max-width: 85%;
 }
 
-/* V6: Device mockup frames */
+/* Device mockup frames */
 .device-phone {
   position: relative;
   width: 280px;
@@ -309,23 +202,6 @@ body {
   color: var(--color-violet-dark);
 }
 
-/* V7: Timeline styling */
-.timeline-line {
-  position: absolute;
-  left: 50%;
-  top: 0;
-  bottom: 0;
-  width: 2px;
-  background: linear-gradient(to bottom, transparent, var(--color-teal), var(--color-violet), transparent);
-  transform: translateX(-50%);
-}
-
-@media (max-width: 768px) {
-  .timeline-line {
-    left: 1.5rem;
-  }
-}
-
 .timeline-dot {
   width: 1rem;
   height: 1rem;
@@ -345,19 +221,6 @@ body {
   }
 }
 
-.time-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.25rem;
-  padding: 0.25rem 0.75rem;
-  border-radius: 9999px;
-  background: var(--color-navy);
-  color: white;
-  font-size: 0.75rem;
-  font-weight: 600;
-  font-variant-numeric: tabular-nums;
-}
-
 .mini-chat-user {
   background: var(--color-teal);
   color: white;
@@ -375,20 +238,6 @@ body {
   border-radius: 0.75rem 0.75rem 0.75rem 0.25rem;
   font-size: 0.8125rem;
   max-width: 90%;
-}
-
-.comparison-without {
-  background: rgba(100, 116, 139, 0.05);
-  border: 1px solid rgba(100, 116, 139, 0.1);
-  border-radius: 1rem;
-  color: var(--color-slate);
-}
-
-.comparison-with {
-  background: rgba(14, 165, 233, 0.05);
-  border: 1px solid rgba(14, 165, 233, 0.15);
-  border-radius: 1rem;
-  color: var(--color-teal-dark);
 }
 
 .time-saved-badge {

@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { Poppins, Inter } from "next/font/google";
 import { routing } from "@/i18n/routing";
 import V10Header from "@/components/v10/Header";
+import { OrganizationJsonLd } from "@/components/JsonLd";
 import "../globals.css";
 
 const poppins = Poppins({
@@ -36,7 +37,7 @@ export async function generateMetadata({
   return {
     title: {
       default: t("title"),
-      template: "%s | AIvoorjou",
+      template: "%s | AIvoorU",
     },
     description: t("description"),
     metadataBase: new URL(baseUrl),
@@ -63,7 +64,7 @@ export async function generateMetadata({
       title: t("title"),
       description: t("description"),
       url: `${baseUrl}/${locale}`,
-      siteName: "AIvoorjou",
+      siteName: "AIvoorU",
       locale: locale === "nl" ? "nl_NL" : "en_US",
       type: "website",
     },
@@ -93,6 +94,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <body className={`${poppins.variable} ${inter.variable} font-sans bg-white text-navy antialiased`}>
+        <OrganizationJsonLd locale={locale} />
         <NextIntlClientProvider>
           <V10Header />
           <main>{children}</main>

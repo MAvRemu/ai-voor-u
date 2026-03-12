@@ -19,7 +19,7 @@ export default function About() {
               <div className="absolute inset-[3px] rounded-full overflow-hidden">
                 <Image
                   src="/about-photo.jpeg"
-                  alt="Founder of AIvoorU.nu"
+                  alt={t("aboutPhotoAlt")}
                   fill
                   className="object-cover"
                   sizes="(max-width: 768px) 192px, 224px"

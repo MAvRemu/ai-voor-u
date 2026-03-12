@@ -6,6 +6,7 @@ import HowIWork from "@/components/v10/HowIWork";
 import About from "@/components/v10/About";
 import FAQ from "@/components/v10/FAQ";
 import CTABanner from "@/components/v10/CTABanner";
+import Footer from "@/components/v10/Footer";
 
 export default async function HomePage({
   params,
@@ -24,6 +25,7 @@ export default async function HomePage({
       <About />
       <CTABanner />
       <FAQ />
+      <Footer />
     </div>
   );
 }
