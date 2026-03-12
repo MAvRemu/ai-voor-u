@@ -12,7 +12,7 @@ AIvoorU is an AI consultancy & implementation service for freelancers (ZZP'ers) 
 ## Tech Stack
 
 | Layer | Technology | Version |
-|-------|-----------|---------|
+|-------|-----------|---------| 
 | Framework | Next.js (App Router) | 16.x |
 | UI | React | 19.x |
 | Language | TypeScript | 5.x |
