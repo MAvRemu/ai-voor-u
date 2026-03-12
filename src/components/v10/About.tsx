@@ -10,6 +10,7 @@ interface ShowcaseItem {
   description: string;
   url: string;
   tag: string;
+  image?: string;
 }
 
 export default function About() {
@@ -78,16 +79,26 @@ export default function About() {
                   className="group block rounded-2xl border border-navy/[0.06] bg-ice/50 overflow-hidden transition-all duration-300 hover:shadow-lg hover:shadow-navy/[0.06] hover:border-navy/[0.12] hover:-translate-y-1"
                 >
                   {/* Website preview */}
-                  <div className="relative w-full aspect-[16/10] overflow-hidden bg-white">
-                    <iframe
-                      src={item.url}
-                      title={item.title}
-                      className="absolute top-0 left-0 w-[200%] h-[200%] origin-top-left scale-50 pointer-events-none"
-                      loading="lazy"
-                      sandbox="allow-same-origin"
-                      tabIndex={-1}
-                      aria-hidden="true"
-                    />
+                  <div className="relative w-full aspect-[16/10] overflow-hidden bg-neutral-900">
+                    {item.image ? (
+                      <Image
+                        src={item.image}
+                        alt={item.title}
+                        fill
+                        className="object-cover group-hover:scale-105 transition-transform duration-500"
+                        sizes="(max-width: 768px) 100vw, 33vw"
+                      />
+                    ) : (
+                      <iframe
+                        src={item.url}
+                        title={item.title}
+                        className="absolute top-0 left-0 w-[200%] h-[200%] origin-top-left scale-50 pointer-events-none"
+                        loading="lazy"
+                        sandbox="allow-same-origin"
+                        tabIndex={-1}
+                        aria-hidden="true"
+                      />
+                    )}
                     {/* Hover overlay */}
                     <div className="absolute inset-0 bg-navy/0 group-hover:bg-navy/5 transition-colors duration-300" />
                   </div>

@@ -320,22 +320,24 @@
       "showcaseTitle": "Waar ik aan heb gewerkt",
       "showcase": [
         {
-          "title": "[VUL IN: titel voor I Need Emily]",
-          "description": "[VUL IN: korte beschrijving van het project]",
+          "title": "I Need Emily",
+          "description": "AI-assistent voor het Radix-ecosysteem. Chat in gewone taal over wallets, tokens, staking, swaps en meer — crypto zonder drempels.",
           "url": "https://www.ineedemily.com",
-          "tag": "[VUL IN: bijv. AI Chatbot]"
+          "tag": "AI Chatbot",
+          "image": "/showcase-emily.png"
         },
         {
-          "title": "[VUL IN: titel voor Democracy of Trade]",
-          "description": "[VUL IN: korte beschrijving van het project]",
+          "title": "Democracy of Trade",
+          "description": "Crypto-portfoliobeheer met democratisch stemmen. Beheer samen portefeuilles, stem op wijzigingen en handel slimmer.",
           "url": "https://www.democracyoftrade.com",
-          "tag": "[VUL IN: bijv. Platform]"
+          "tag": "Web3 Platform",
+          "image": "/showcase-dot.png"
         },
         {
-          "title": "[VUL IN: titel voor Baka Glass]",
-          "description": "[VUL IN: korte beschrijving — bijv. huidige werkplek]",
+          "title": "Baka Glass",
+          "description": "Software voor de glasindustrie. Orderbeheer, voorraad, planning en operaties voor 200+ glasbedrijven wereldwijd.",
           "url": "https://www.bakaglass.com/en",
-          "tag": "[VUL IN: bijv. Huidige werkplek]"
+          "tag": "Huidige werkplek"
         }
       ]
     },

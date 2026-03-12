@@ -320,22 +320,24 @@
       "showcaseTitle": "What I've worked on",
       "showcase": [
         {
-          "title": "[FILL IN: title for I Need Emily]",
-          "description": "[FILL IN: short project description]",
+          "title": "I Need Emily",
+          "description": "AI assistant for the Radix ecosystem. Chat naturally about wallets, tokens, staking, swaps and more — crypto made simple.",
           "url": "https://www.ineedemily.com",
-          "tag": "[FILL IN: e.g. AI Chatbot]"
+          "tag": "AI Chatbot",
+          "image": "/showcase-emily.png"
         },
         {
-          "title": "[FILL IN: title for Democracy of Trade]",
-          "description": "[FILL IN: short project description]",
+          "title": "Democracy of Trade",
+          "description": "Collaborative crypto portfolio management with democratic voting. Manage portfolios together, vote on changes, trade smarter.",
           "url": "https://www.democracyoftrade.com",
-          "tag": "[FILL IN: e.g. Platform]"
+          "tag": "Web3 Platform",
+          "image": "/showcase-dot.png"
         },
         {
-          "title": "[FILL IN: title for Baka Glass]",
-          "description": "[FILL IN: short description — e.g. current workplace]",
+          "title": "Baka Glass",
+          "description": "Software for the flat glass industry. Order processing, inventory, planning and operations for 200+ glass businesses worldwide.",
           "url": "https://www.bakaglass.com/en",
-          "tag": "[FILL IN: e.g. Current role]"
+          "tag": "Current role"
         }
       ]
     },
