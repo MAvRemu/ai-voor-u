@@ -9,9 +9,10 @@
       "description": "AI consultancy and technical implementation for freelancers and SMBs in the Netherlands. From strategy to working AI solutions. Personally set up by an AI specialist."
     },
     "header": {
-      "useCases": "Use cases",
-      "howItWorks": "How it works",
-      "about": "About",
+      "useCases": "Possibilities",
+      "howItWorks": "Process",
+      "about": "Who am I",
+      "faq": "FAQ",
       "cta": "Book a free call"
     },
     "hero": {
@@ -315,7 +316,28 @@
       "titleAccent": "That's the whole point.",
       "description": "I believe every freelancer and small business deserves access to AI — without the enterprise price tag or the tech jargon. I work hands-on, keep things personal, and won't leave until it actually works for you.",
       "cta": "Book a free call",
-      "aboutPhotoAlt": "Founder of AIvoorU - AI specialist for freelancers and SMBs in the Netherlands"
+      "aboutPhotoAlt": "Founder of AIvoorU - AI specialist for freelancers and SMBs in the Netherlands",
+      "showcaseTitle": "What I've worked on",
+      "showcase": [
+        {
+          "title": "[FILL IN: title for I Need Emily]",
+          "description": "[FILL IN: short project description]",
+          "url": "https://www.ineedemily.com",
+          "tag": "[FILL IN: e.g. AI Chatbot]"
+        },
+        {
+          "title": "[FILL IN: title for Democracy of Trade]",
+          "description": "[FILL IN: short project description]",
+          "url": "https://www.democracyoftrade.com",
+          "tag": "[FILL IN: e.g. Platform]"
+        },
+        {
+          "title": "[FILL IN: title for Baka Glass]",
+          "description": "[FILL IN: short description — e.g. current workplace]",
+          "url": "https://www.bakaglass.com/en",
+          "tag": "[FILL IN: e.g. Current role]"
+        }
+      ]
     },
     "faq": {
       "title": "Frequently asked questions",
@@ -360,18 +382,21 @@
       "subtitle": "Book a free 30-minute call. I'll show you exactly how AI can save you time and help you grow. No obligations, no jargon.",
       "cta": "Book a free call",
       "ctaSubLabel": "Free and no-obligation · 30 minutes",
-      "ctaSecondary": "Or email me at info@aivooru.nu"
+      "ctaSecondary": "Or email me at info@aivooru.nu",
+      "ctaPhone": "Call me: +31629522244"
     },
     "footer": {
       "brand": "AIvoorU",
       "tagline": "Custom AI solutions for freelancers and small businesses.",
       "nav": "Navigation",
-      "useCases": "Use cases",
-      "howItWorks": "How it works",
-      "about": "About",
+      "useCases": "Possibilities",
+      "howItWorks": "Process",
+      "about": "Who am I",
+      "faq": "FAQ",
       "contact": "Contact",
       "contactTitle": "Contact",
       "email": "info@aivooru.nu",
+      "phone": "+31629522244",
       "copyright": "© {year} AIvoorU. All rights reserved."
     }
   }
