@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { motion } from "framer-motion";
 import { WordFadeIn } from "@/components/ui/word-fade-in";
@@ -10,7 +11,7 @@ export default function Hero() {
   const t = useTranslations("v10.hero");
 
   return (
-    <section className="min-h-[85vh] flex flex-col items-center justify-center text-center px-6 bg-white relative overflow-hidden">
+    <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 pt-24 pb-12 bg-white relative overflow-hidden">
       {/* Subtle background gradient blobs */}
       <div
         className="absolute top-[-10%] right-[-10%] w-[500px] h-[500px] rounded-full bg-teal/5 blur-3xl"
@@ -42,11 +43,25 @@ export default function Hero() {
           </BlurFade>
         </h1>
 
-        {/* Subtitle */}
+        {/* Personal message bubble */}
         <BlurFade delay={0.6}>
-          <p className="text-lg text-slate mt-6 max-w-2xl mx-auto leading-relaxed">
-            {t("subtitle")}
-          </p>
+          <div className="mt-10 max-w-xl mx-auto rounded-3xl bg-ice/80 border border-navy/[0.06] pl-3 pr-6 py-4 flex items-center gap-4">
+            <div className="w-20 h-20 shrink-0 rounded-full p-[2px] bg-gradient-to-br from-teal to-violet">
+              <div className="relative w-full h-full rounded-full overflow-hidden">
+                <Image
+                  src="/about-photo.jpeg"
+                  alt="Marius"
+                  fill
+                  className="object-cover"
+                  sizes="80px"
+                  quality={90}
+                />
+              </div>
+            </div>
+            <p className="text-base text-slate leading-relaxed">
+              {t("subtitle")}
+            </p>
+          </div>
         </BlurFade>
 
         {/* CTA */}
@@ -58,7 +73,7 @@ export default function Hero() {
 
         {/* Scroll label */}
         <BlurFade delay={1.0}>
-          <div className="mt-10 flex flex-col items-center gap-1">
+          <div className="mt-24 flex flex-col items-center gap-1">
             <span className="text-xs text-slate">{t("scrollLabel")}</span>
             <motion.svg
               className="w-5 h-5 text-slate"

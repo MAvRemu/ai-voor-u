@@ -16,10 +16,11 @@
       "cta": "Book a free call"
     },
     "hero": {
-      "eyebrow": "AI consultancy for freelancers & SMBs",
+      "eyebrow": "AI consultancy for SMBs & freelancers",
       "headline": "Your competitors are already using AI.",
       "headlineAccent": "Are you?",
-      "subtitle": "I help freelancers and small businesses save hours every week, serve customers better, and grow faster — with AI that actually fits your workflow.",
+      "founderBadge": "Marius, founder",
+      "subtitle": "I help small businesses and freelancers save hours every week, serve customers better, and grow faster — with AI that actually fits your workflow.",
       "cta": "Book a free call",
       "scrollLabel": "See what's possible"
     },
@@ -314,11 +315,25 @@
       "eyebrow": "Who's behind AIvoorU",
       "title": "I'm not a big consultancy.",
       "titleAccent": "That's the whole point.",
-      "description": "I believe every freelancer and small business deserves access to AI — without the enterprise price tag or the tech jargon. I work hands-on, keep things personal, and won't leave until it actually works for you.",
+      "description": "Senior Full Stack Developer with 8+ years in tech. I don't build PowerPoints — I build working software. That's the mindset I bring to your business: practical, hands-on, and not done until it actually works.",
       "cta": "Book a free call",
       "aboutPhotoAlt": "Founder of AIvoorU - AI specialist for freelancers and SMBs in the Netherlands",
       "showcaseTitle": "What I've worked on",
       "showcase": [
+        {
+          "title": "Baka Glass",
+          "description": "The largest ERP system in the flat glass industry. From order intake to planning, cut optimization and logistics — the industry standard.",
+          "url": "https://www.bakaglass.com/en",
+          "tag": "Glass industry",
+          "image": "/showcase-bakaglass.png"
+        },
+        {
+          "title": "ElectricFeel",
+          "description": "White-label micro-mobility app serving 1M+ end users. Product engineering, app releases and customer onboarding.",
+          "url": "https://www.electricfeel.com",
+          "tag": "Micro-mobility",
+          "image": "/showcase-electricfeel.png"
+        },
         {
           "title": "I Need Emily",
           "description": "AI assistant for the Radix ecosystem. Chat naturally about wallets, tokens, staking, swaps and more — crypto made simple.",
@@ -332,12 +347,6 @@
           "url": "https://www.democracyoftrade.com",
           "tag": "Web3 Platform",
           "image": "/showcase-dot.png"
-        },
-        {
-          "title": "Baka Glass",
-          "description": "Software for the flat glass industry. Order processing, inventory, planning and operations for 200+ glass businesses worldwide.",
-          "url": "https://www.bakaglass.com/en",
-          "tag": "Current role"
         }
       ]
     },

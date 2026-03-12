@@ -21,7 +21,7 @@ export async function OrganizationJsonLd({ locale }: JsonLdProps) {
     logo: `${baseUrl}/favicon.svg`,
     description:
       locale === "nl"
-        ? "AI-consultancy en technische implementatie voor ZZP'ers en MKB in Nederland."
+        ? "AI-consultancy en technische implementatie voor MKB en ZZP'ers in Nederland."
         : "AI consultancy and technical implementation for freelancers and SMBs in the Netherlands.",
     email: "info@aivooru.nu",
     areaServed: {
@@ -44,7 +44,7 @@ export async function OrganizationJsonLd({ locale }: JsonLdProps) {
         : "AI consultancy & implementation",
     description:
       locale === "nl"
-        ? "AI-consultancy en technische implementatie voor ZZP'ers en MKB. Van strategie tot werkende AI-oplossingen."
+        ? "AI-consultancy en technische implementatie voor MKB en ZZP'ers. Van strategie tot werkende AI-oplossingen."
         : "AI consultancy and technical implementation for freelancers and SMBs. From strategy to working AI solutions.",
     provider: {
       "@type": "ProfessionalService",

@@ -69,7 +69,7 @@ export default function About() {
             </h3>
           </BlurFade>
 
-          <div className="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
             {showcase.map((item, i) => (
               <BlurFade key={item.url} delay={0.5 + i * 0.1}>
                 <a

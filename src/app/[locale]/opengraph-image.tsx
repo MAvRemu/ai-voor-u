@@ -14,7 +14,7 @@ export default async function OgImage({
 
   const tagline =
     locale === "nl"
-      ? "AI-consultancy & implementatie voor ZZP en MKB"
+      ? "AI-consultancy & implementatie voor MKB en ZZP"
       : "AI consultancy & implementation for freelancers & SMBs";
 
   return new ImageResponse(

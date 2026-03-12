@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "AIvoorU | AI-consultancy & implementatie voor ZZP en MKB",
-    "description": "AI-consultancy en technische implementatie voor ZZP'ers en MKB in Nederland. Van strategie tot werkende AI-oplossingen. Persoonlijk opgezet door een AI-specialist."
+    "title": "AIvoorU | AI-consultancy & implementatie voor MKB en ZZP",
+    "description": "AI-consultancy en technische implementatie voor MKB en ZZP'ers in Nederland. Van strategie tot werkende AI-oplossingen. Persoonlijk opgezet door een AI-specialist."
   },
   "v10": {
     "meta": {
-      "title": "AIvoorU | AI-consultancy & implementatie voor ZZP en MKB",
-      "description": "AI-consultancy en technische implementatie voor ZZP'ers en MKB in Nederland. Van strategie tot werkende AI-oplossingen. Persoonlijk opgezet door een AI-specialist."
+      "title": "AIvoorU | AI-consultancy & implementatie voor MKB en ZZP",
+      "description": "AI-consultancy en technische implementatie voor MKB en ZZP'ers in Nederland. Van strategie tot werkende AI-oplossingen. Persoonlijk opgezet door een AI-specialist."
     },
     "header": {
       "useCases": "Mogelijkheden",
@@ -16,10 +16,11 @@
       "cta": "Plan een gratis gesprek"
     },
     "hero": {
-      "eyebrow": "AI-consultancy voor ZZP'ers & MKB",
+      "eyebrow": "AI-consultancy voor MKB & ZZP'ers",
       "headline": "Je concurrenten gebruiken al AI.",
       "headlineAccent": "En jij?",
-      "subtitle": "Ik help freelancers en kleine bedrijven om uren per week te besparen, klanten beter te bedienen en sneller te groeien — met AI die écht past bij jouw werkwijze.",
+      "founderBadge": "Marius, oprichter",
+      "subtitle": "Ik help kleine bedrijven en freelancers om uren per week te besparen, klanten beter te bedienen en sneller te groeien — met AI die écht past bij jouw werkwijze.",
       "cta": "Plan een gratis gesprek",
       "scrollLabel": "Ontdek de mogelijkheden"
     },
@@ -314,11 +315,25 @@
       "eyebrow": "Wie zit er achter AIvoorU",
       "title": "Ik ben geen groot consultancybureau.",
       "titleAccent": "Dat is juist het punt.",
-      "description": "Ik geloof dat elke freelancer en elk klein bedrijf toegang verdient tot AI — zonder enterpriseprijzen of technisch jargon. Ik werk hands-on, houd het persoonlijk en ga niet weg tot het écht werkt voor jou.",
+      "description": "Senior Full Stack Developer met 8+ jaar ervaring in tech. Ik bouw geen PowerPoints — ik bouw werkende software. Die mentaliteit breng ik mee naar jouw bedrijf: praktisch, hands-on, en pas klaar als het écht werkt.",
       "cta": "Plan een gratis gesprek",
-      "aboutPhotoAlt": "Oprichter AIvoorU - AI-specialist voor ZZP'ers en MKB in Nederland",
+      "aboutPhotoAlt": "Oprichter AIvoorU - AI-specialist voor MKB en ZZP'ers in Nederland",
       "showcaseTitle": "Waar ik aan heb gewerkt",
       "showcase": [
+        {
+          "title": "Baka Glass",
+          "description": "Het grootste ERP-pakket in de glasbranche. Van orderintake tot planning, snijoptimalisatie en logistiek — de standaard in de industrie.",
+          "url": "https://www.bakaglass.com/en",
+          "tag": "Glasindustrie",
+          "image": "/showcase-bakaglass.png"
+        },
+        {
+          "title": "ElectricFeel",
+          "description": "White-label micro-mobility app voor 1M+ eindgebruikers. Product engineering, app releases en klant-onboarding.",
+          "url": "https://www.electricfeel.com",
+          "tag": "Micro-mobiliteit",
+          "image": "/showcase-electricfeel.png"
+        },
         {
           "title": "I Need Emily",
           "description": "AI-assistent voor het Radix-ecosysteem. Chat in gewone taal over wallets, tokens, staking, swaps en meer — crypto zonder drempels.",
@@ -332,12 +347,6 @@
           "url": "https://www.democracyoftrade.com",
           "tag": "Web3 Platform",
           "image": "/showcase-dot.png"
-        },
-        {
-          "title": "Baka Glass",
-          "description": "Software voor de glasindustrie. Orderbeheer, voorraad, planning en operaties voor 200+ glasbedrijven wereldwijd.",
-          "url": "https://www.bakaglass.com/en",
-          "tag": "Huidige werkplek"
         }
       ]
     },

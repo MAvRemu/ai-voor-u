@@ -86,7 +86,7 @@ export default function V10Header() {
       {/* Floating pill container */}
       <div
         className={[
-          "mx-3 mt-3 rounded-2xl transition-all duration-500 ease-out",
+          "mx-auto mt-3 w-fit rounded-2xl transition-all duration-500 ease-out",
           scrolled
             ? "bg-white/85 backdrop-blur-xl shadow-lg shadow-navy/[0.04] border border-navy/[0.06]"
             : "bg-transparent border border-transparent",
@@ -95,7 +95,7 @@ export default function V10Header() {
         <motion.div
           animate={prefersReducedMotion ? {} : { height: scrolled ? 56 : 64 }}
           transition={{ duration: 0.3, ease: [0.25, 0.4, 0.25, 1] }}
-          className="max-w-6xl mx-auto px-6 flex items-center justify-between"
+          className="px-6 flex items-center gap-20"
         >
           {/* Logo */}
           <motion.a
@@ -189,7 +189,7 @@ export default function V10Header() {
             initial="hidden"
             animate="visible"
             exit="exit"
-            className="md:hidden overflow-hidden mx-3 mt-1 rounded-2xl bg-white/95 backdrop-blur-xl border border-navy/[0.06] shadow-lg shadow-navy/[0.04]"
+            className="md:hidden overflow-hidden mx-auto max-w-6xl mt-1 rounded-2xl bg-white/95 backdrop-blur-xl border border-navy/[0.06] shadow-lg shadow-navy/[0.04] px-3"
           >
             <div className="px-6 py-5 flex flex-col gap-4">
               {navLinks.map((link) => (
