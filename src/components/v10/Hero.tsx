@@ -46,17 +46,22 @@ export default function Hero() {
         {/* Personal message bubble */}
         <BlurFade delay={0.6}>
           <div className="mt-10 max-w-xl mx-auto rounded-3xl bg-ice/80 border border-navy/[0.06] pl-3 pr-6 py-4 flex items-center gap-4">
-            <div className="w-20 h-20 shrink-0 rounded-full p-[2px] bg-gradient-to-br from-teal to-violet">
-              <div className="relative w-full h-full rounded-full overflow-hidden">
-                <Image
-                  src="/about-photo.jpeg"
-                  alt="Marius"
-                  fill
-                  className="object-cover"
-                  sizes="80px"
-                  quality={90}
-                />
+            <div className="flex flex-col items-center gap-1.5 shrink-0">
+              <div className="w-20 h-20 rounded-full p-[2px] bg-gradient-to-br from-teal to-violet">
+                <div className="relative w-full h-full rounded-full overflow-hidden">
+                  <Image
+                    src="/about-photo.jpeg"
+                    alt="Marius"
+                    fill
+                    className="object-cover"
+                    sizes="80px"
+                    quality={90}
+                  />
+                </div>
               </div>
+              <span className="text-[11px] font-medium text-navy/70 bg-white/80 border border-navy/[0.06] rounded-full px-2.5 py-0.5 whitespace-nowrap">
+                {t("founderBadge")}
+              </span>
             </div>
             <p className="text-base text-slate leading-relaxed">
               {t("subtitle")}

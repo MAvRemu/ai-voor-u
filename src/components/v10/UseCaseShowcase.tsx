@@ -103,10 +103,10 @@ export default function UseCaseShowcase() {
                     {category.subtitle}
                   </p>
 
-                  {/* Items as compact list */}
+                  {/* Items as compact list — show first 3 on mobile, all on md+ */}
                   <ul className="space-y-2 flex-1">
                     {category.items.map((item, itemIndex) => (
-                      <li key={itemIndex} className="flex items-start gap-2">
+                      <li key={itemIndex} className={`flex items-start gap-2${itemIndex >= 3 ? " hidden md:flex" : ""}`}>
                         <span className={`flex-shrink-0 w-1.5 h-1.5 rounded-full ${colors.dot} mt-1.5`} />
                         <span className="text-sm text-navy/80 leading-snug">
                           {item.title}

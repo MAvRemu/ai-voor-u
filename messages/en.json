@@ -20,7 +20,7 @@
       "headline": "Your competitors are already using AI.",
       "headlineAccent": "Are you?",
       "founderBadge": "Marius, founder",
-      "subtitle": "I help small businesses and freelancers save hours every week, serve customers better, and grow faster — with AI that actually fits your workflow.",
+      "subtitle": "I help small businesses and freelancers save hours every week, serve customers better, and grow faster. With AI that actually fits your workflow.",
       "cta": "Book a free call",
       "scrollLabel": "See what's possible"
     },
@@ -29,7 +29,7 @@
       "items": [
         {
           "title": "Drowning in repetitive tasks",
-          "description": "Emails, invoices, scheduling, follow-ups — you spend more time on admin than on actual work."
+          "description": "Emails, invoices, scheduling, follow-ups. You spend more time on admin than on actual work."
         },
         {
           "title": "Can't afford to hire",
@@ -37,14 +37,14 @@
         },
         {
           "title": "AI feels overwhelming",
-          "description": "ChatGPT, copilots, automations — where do you even start? You need someone who just makes it work."
+          "description": "ChatGPT, copilots, automations... where do you even start? You need someone who just makes it work."
         },
         {
           "title": "Falling behind competitors",
           "description": "Other businesses are already using AI to move faster. Every month you wait, the gap grows."
         }
       ],
-      "nudge": "Sound familiar? You're not alone — and there's an easy fix."
+      "nudge": "Sound familiar? You're not alone. And there's an easy fix."
     },
     "useCases": {
       "title": "What AI can do for your business",
@@ -52,11 +52,11 @@
       "categories": [
         {
           "title": "Your Personal AI Assistant",
-          "subtitle": "An AI that knows your business, your tone, your processes — available 24/7.",
+          "subtitle": "An AI that knows your business, your tone, your processes. Available 24/7.",
           "items": [
             {
               "title": "Answer questions like you would",
-              "description": "Train your AI on your knowledge base and way of working. It responds to customers and partners exactly as you would — even at 3 AM."
+              "description": "Train your AI on your knowledge base and way of working. It responds to customers and partners exactly as you would. Even at 3 AM."
             },
             {
               "title": "Remember everything, forget nothing",
@@ -64,11 +64,11 @@
             },
             {
               "title": "Think along and suggest",
-              "description": "Brainstorm ideas, draft proposals, prepare meeting summaries, or research a topic — your AI handles it."
+              "description": "Brainstorm ideas, draft proposals, prepare meeting summaries, or research a topic. Your AI handles it."
             },
             {
               "title": "Speak your language",
-              "description": "Your assistant adapts to your brand voice, jargon, and style. It's not generic AI — it's your AI."
+              "description": "Your assistant adapts to your brand voice, jargon, and style. It's not generic AI. It's your AI."
             },
             {
               "title": "Grow with you",
@@ -76,7 +76,7 @@
             },
             {
               "title": "Reachable via voice, chat & email",
-              "description": "Talk, type, or email — your AI responds on every channel. Via WhatsApp, Slack, voice, or just your browser."
+              "description": "Talk, type, or email. Your AI responds on every channel. Via WhatsApp, Slack, voice, or just your browser."
             },
             {
               "title": "Custom daily briefing",
@@ -94,7 +94,7 @@
             },
             {
               "title": "Less pressure on your team",
-              "description": "AI handles repetitive inquiries — order status, pricing, FAQs — reducing workload by up to 70%."
+              "description": "AI handles repetitive inquiries: order status, pricing, FAQs. That reduces workload by up to 70%."
             },
             {
               "title": "Higher customer retention",
@@ -106,13 +106,13 @@
             },
             {
               "title": "Multilingual support",
-              "description": "AI answers customer questions in Dutch, English, German, and more — no need for extra staff per language."
+              "description": "AI answers customer questions in Dutch, English, German, and more. No need for extra staff per language."
             }
           ]
         },
         {
           "title": "Marketing & Content Creation",
-          "subtitle": "Produce more content, reach more people, spend less time — without hiring a team.",
+          "subtitle": "Produce more content, reach more people, spend less time. Without hiring a team.",
           "items": [
             {
               "title": "Blogs, posts & newsletters in a fraction of the time",
@@ -142,7 +142,7 @@
         },
         {
           "title": "Sales & Lead Generation",
-          "subtitle": "Find more leads, respond faster, close more deals — with less manual effort.",
+          "subtitle": "Find more leads, respond faster, close more deals. With less manual effort.",
           "items": [
             {
               "title": "Qualify leads automatically",
@@ -224,7 +224,7 @@
         },
         {
           "title": "Research & Intelligence",
-          "subtitle": "Know your market, watch competitors, spot opportunities — without hours of reading.",
+          "subtitle": "Know your market, watch competitors, spot opportunities. Without hours of reading.",
           "items": [
             {
               "title": "Market research in minutes",
@@ -250,7 +250,7 @@
         },
         {
           "title": "HR & People Operations",
-          "subtitle": "From hiring to onboarding and daily HR tasks — faster and more personal with AI.",
+          "subtitle": "From hiring to onboarding and daily HR tasks. Faster and more personal with AI.",
           "items": [
             {
               "title": "Job postings in minutes",
@@ -294,11 +294,11 @@
           "items": [
             {
               "title": "Custom AI implementation",
-              "description": "I set up AI solutions tailored to your workflow — connected to your tools, trained on your data, ready to use."
+              "description": "I set up AI solutions tailored to your workflow. Connected to your tools, trained on your data, ready to use."
             },
             {
               "title": "On-site AI training",
-              "description": "I come to your office and teach you and your team how to use AI effectively — with real examples from your daily work."
+              "description": "I come to your office and teach you and your team how to use AI effectively. With real examples from your daily work."
             }
           ]
         },
@@ -315,14 +315,14 @@
       "eyebrow": "Who's behind AIvoorU",
       "title": "I'm not a big consultancy.",
       "titleAccent": "That's the whole point.",
-      "description": "Senior Full Stack Developer with 8+ years in tech. I don't build PowerPoints — I build working software. That's the mindset I bring to your business: practical, hands-on, and not done until it actually works.",
+      "description": "I'm Marius — software engineer with 8+ years of experience, now fully focused on AI. No PowerPoints or vague advice. I build solutions that work. Practical, hands-on, and not done until it actually runs.",
       "cta": "Book a free call",
       "aboutPhotoAlt": "Founder of AIvoorU - AI specialist for freelancers and SMBs in the Netherlands",
       "showcaseTitle": "What I've worked on",
       "showcase": [
         {
           "title": "Baka Glass",
-          "description": "The largest ERP system in the flat glass industry. From order intake to planning, cut optimization and logistics — the industry standard.",
+          "description": "The largest ERP system in the flat glass industry. From order intake to planning, cut optimization and logistics. The industry standard.",
           "url": "https://www.bakaglass.com/en",
           "tag": "Glass industry",
           "image": "/showcase-bakaglass.png"
@@ -336,7 +336,7 @@
         },
         {
           "title": "I Need Emily",
-          "description": "AI assistant for the Radix ecosystem. Chat naturally about wallets, tokens, staking, swaps and more — crypto made simple.",
+          "description": "AI assistant for the Radix ecosystem. Chat naturally about wallets, tokens, staking, swaps and more. Crypto made simple.",
           "url": "https://www.ineedemily.com",
           "tag": "AI Chatbot",
           "image": "/showcase-emily.png"
@@ -355,11 +355,11 @@
       "items": [
         {
           "question": "I'm not technical at all. Is that a problem?",
-          "answer": "Not at all — that's exactly why I exist. I handle everything from setup to configuration. You just tell me what you need, and I make it work."
+          "answer": "Not at all. That's exactly why I exist. I handle everything from setup to configuration. You just tell me what you need, and I make it work."
         },
         {
           "question": "How quickly will I see results?",
-          "answer": "Most clients notice a difference within the first week. Measurable ROI — like time saved or faster response times — is typically visible within 90 days."
+          "answer": "Most clients notice a difference within the first week. Measurable ROI, like time saved or faster response times, is typically visible within 90 days."
         },
         {
           "question": "Is my data safe?",
@@ -367,7 +367,7 @@
         },
         {
           "question": "What if it doesn't work for my business?",
-          "answer": "During the free discovery call, we figure out together if AI is a good fit. I'm honest — if AI won't help your situation, I'll tell you upfront."
+          "answer": "During the free discovery call, we figure out together if AI is a good fit. I'm honest: if AI won't help your situation, I'll tell you upfront."
         },
         {
           "question": "How much does it cost?",
@@ -375,7 +375,7 @@
         },
         {
           "question": "Do I need special hardware or software?",
-          "answer": "Usually not. Most solutions work with your existing tools — Gmail, Calendar, Drive, your CRM. If hardware is needed, I'll advise you."
+          "answer": "Usually not. Most solutions work with your existing tools: Gmail, Calendar, Drive, your CRM. If hardware is needed, I'll advise you."
         },
         {
           "question": "Can I see how it works first?",

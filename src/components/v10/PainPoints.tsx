@@ -119,7 +119,7 @@ export default function PainPoints() {
                       <h3 className="text-lg font-heading font-bold text-navy">
                         {item.title}
                       </h3>
-                      <p className="text-slate text-sm mt-1.5 leading-relaxed">
+                      <p className="text-slate text-sm mt-1.5 leading-relaxed hidden md:block">
                         {item.description}
                       </p>
                     </div>

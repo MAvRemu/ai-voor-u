@@ -19,8 +19,8 @@
       "eyebrow": "AI-consultancy voor MKB & ZZP'ers",
       "headline": "Je concurrenten gebruiken al AI.",
       "headlineAccent": "En jij?",
-      "founderBadge": "Marius, oprichter",
-      "subtitle": "Ik help kleine bedrijven en freelancers om uren per week te besparen, klanten beter te bedienen en sneller te groeien — met AI die écht past bij jouw werkwijze.",
+      "founderBadge": "Marius",
+      "subtitle": "Ik help kleine bedrijven en freelancers om uren per week te besparen, klanten beter te bedienen en sneller te groeien. Met AI die écht past bij jouw werkwijze.",
       "cta": "Plan een gratis gesprek",
       "scrollLabel": "Ontdek de mogelijkheden"
     },
@@ -29,7 +29,7 @@
       "items": [
         {
           "title": "Verzuipen in repetitieve taken",
-          "description": "E-mails, facturen, planning, opvolging — je besteedt meer tijd aan admin dan aan je échte werk."
+          "description": "E-mails, facturen, planning, opvolging. Je besteedt meer tijd aan admin dan aan je échte werk."
         },
         {
           "title": "Geen budget om iemand aan te nemen",
@@ -37,14 +37,14 @@
         },
         {
           "title": "AI voelt overweldigend",
-          "description": "ChatGPT, copilots, automatiseringen — waar begin je? Je hebt iemand nodig die het gewoon voor je regelt."
+          "description": "ChatGPT, copilots, automatiseringen... waar begin je? Je hebt iemand nodig die het gewoon voor je regelt."
         },
         {
           "title": "Achterlopen op de concurrentie",
           "description": "Andere bedrijven gebruiken AI al om sneller te werken. Elke maand dat je wacht, groeit de kloof."
         }
       ],
-      "nudge": "Herken je dit? Dan ben je niet de enige — en er is een makkelijke oplossing."
+      "nudge": "Herken je dit? Dan ben je niet de enige. En er is een makkelijke oplossing."
     },
     "useCases": {
       "title": "Wat AI voor jouw bedrijf kan doen",
@@ -52,11 +52,11 @@
       "categories": [
         {
           "title": "Jouw Persoonlijke AI-Assistent",
-          "subtitle": "Een AI die jouw bedrijf kent, jouw toon, jouw processen — 24/7 beschikbaar.",
+          "subtitle": "Een AI die jouw bedrijf kent, jouw toon, jouw processen. 24/7 beschikbaar.",
           "items": [
             {
               "title": "Beantwoord vragen zoals jij dat zou doen",
-              "description": "Train je AI op jouw kennisbank en werkwijze. Het antwoordt klanten en partners precies zoals jij — zelfs om 3 uur 's nachts."
+              "description": "Train je AI op jouw kennisbank en werkwijze. Het antwoordt klanten en partners precies zoals jij. Zelfs om 3 uur 's nachts."
             },
             {
               "title": "Onthoud alles, vergeet niets",
@@ -64,11 +64,11 @@
             },
             {
               "title": "Denkt mee en doet suggesties",
-              "description": "Brainstorm ideeën, stel offertes op, maak meeting-samenvattingen of onderzoek een onderwerp — je AI regelt het."
+              "description": "Brainstorm ideeën, stel offertes op, maak meeting-samenvattingen of onderzoek een onderwerp. Je AI regelt het."
             },
             {
               "title": "Spreekt jouw taal",
-              "description": "Je assistent past zich aan aan jouw merkstem, jargon en stijl. Het is geen generieke AI — het is jóúw AI."
+              "description": "Je assistent past zich aan aan jouw merkstem, jargon en stijl. Het is geen generieke AI. Het is jóúw AI."
             },
             {
               "title": "Groeit met je mee",
@@ -76,7 +76,7 @@
             },
             {
               "title": "Bereikbaar via spraak, chat en e-mail",
-              "description": "Praat, typ of mail — je AI reageert op elk kanaal. Via WhatsApp, Slack, spraak of gewoon je browser."
+              "description": "Praat, typ of mail. Je AI reageert op elk kanaal. Via WhatsApp, Slack, spraak of gewoon je browser."
             },
             {
               "title": "Dagelijkse briefing op maat",
@@ -94,7 +94,7 @@
             },
             {
               "title": "Minder werkdruk voor je team",
-              "description": "AI neemt repetitieve vragen over — bestelstatus, prijzen, FAQ — en verlaagt de werkdruk met tot 70%."
+              "description": "AI neemt repetitieve vragen over: bestelstatus, prijzen, FAQ. Dat verlaagt de werkdruk met tot 70%."
             },
             {
               "title": "Hogere klantretentie",
@@ -106,13 +106,13 @@
             },
             {
               "title": "Meertalige ondersteuning",
-              "description": "AI beantwoordt klantvragen in het Nederlands, Engels, Duits en meer — zonder extra personeel voor elke taal."
+              "description": "AI beantwoordt klantvragen in het Nederlands, Engels, Duits en meer. Zonder extra personeel voor elke taal."
             }
           ]
         },
         {
           "title": "Marketing & Content Creatie",
-          "subtitle": "Meer content produceren, meer mensen bereiken, minder tijd kwijt — zonder team aan te nemen.",
+          "subtitle": "Meer content produceren, meer mensen bereiken, minder tijd kwijt. Zonder team aan te nemen.",
           "items": [
             {
               "title": "Blogs, posts & nieuwsbrieven in een fractie van de tijd",
@@ -142,7 +142,7 @@
         },
         {
           "title": "Sales & Leadgeneratie",
-          "subtitle": "Meer leads vinden, sneller reageren, meer deals sluiten — met minder handmatig werk.",
+          "subtitle": "Meer leads vinden, sneller reageren, meer deals sluiten. Met minder handmatig werk.",
           "items": [
             {
               "title": "Leads automatisch kwalificeren",
@@ -224,7 +224,7 @@
         },
         {
           "title": "Kennis & Onderzoek",
-          "subtitle": "Ken je markt, volg concurrenten, spot kansen — zonder uren lezen.",
+          "subtitle": "Ken je markt, volg concurrenten, spot kansen. Zonder uren lezen.",
           "items": [
             {
               "title": "Marktonderzoek in minuten",
@@ -250,7 +250,7 @@
         },
         {
           "title": "HR & Personeelszaken",
-          "subtitle": "Van werving tot onboarding en dagelijkse HR-taken — sneller en persoonlijker met AI.",
+          "subtitle": "Van werving tot onboarding en dagelijkse HR-taken. Sneller en persoonlijker met AI.",
           "items": [
             {
               "title": "Vacatureteksten in minuten",
@@ -294,11 +294,11 @@
           "items": [
             {
               "title": "AI-implementatie op maat",
-              "description": "Ik zet AI-oplossingen op die passen bij jouw workflow — gekoppeld aan je tools, getraind op jouw data, klaar voor gebruik."
+              "description": "Ik zet AI-oplossingen op die passen bij jouw workflow. Gekoppeld aan je tools, getraind op jouw data, klaar voor gebruik."
             },
             {
               "title": "AI-training op locatie",
-              "description": "Ik kom langs en leer jou en je team hoe jullie AI effectief inzetten — met echte voorbeelden uit jullie dagelijkse werk."
+              "description": "Ik kom langs en leer jou en je team hoe jullie AI effectief inzetten. Met echte voorbeelden uit jullie dagelijkse werk."
             }
           ]
         },
@@ -315,14 +315,14 @@
       "eyebrow": "Wie zit er achter AIvoorU",
       "title": "Ik ben geen groot consultancybureau.",
       "titleAccent": "Dat is juist het punt.",
-      "description": "Senior Full Stack Developer met 8+ jaar ervaring in tech. Ik bouw geen PowerPoints — ik bouw werkende software. Die mentaliteit breng ik mee naar jouw bedrijf: praktisch, hands-on, en pas klaar als het écht werkt.",
+      "description": "Ik ben Marius — software engineer met 8+ jaar ervaring, nu volledig gefocust op AI. Geen PowerPoints of vage adviezen. Ik bouw oplossingen die werken. Praktisch, hands-on, en pas klaar als het écht draait.",
       "cta": "Plan een gratis gesprek",
       "aboutPhotoAlt": "Oprichter AIvoorU - AI-specialist voor MKB en ZZP'ers in Nederland",
       "showcaseTitle": "Waar ik aan heb gewerkt",
       "showcase": [
         {
           "title": "Baka Glass",
-          "description": "Het grootste ERP-pakket in de glasbranche. Van orderintake tot planning, snijoptimalisatie en logistiek — de standaard in de industrie.",
+          "description": "Het grootste ERP-pakket in de glasbranche. Van orderintake tot planning, snijoptimalisatie en logistiek. De standaard in de industrie.",
           "url": "https://www.bakaglass.com/en",
           "tag": "Glasindustrie",
           "image": "/showcase-bakaglass.png"
@@ -336,7 +336,7 @@
         },
         {
           "title": "I Need Emily",
-          "description": "AI-assistent voor het Radix-ecosysteem. Chat in gewone taal over wallets, tokens, staking, swaps en meer — crypto zonder drempels.",
+          "description": "AI-assistent voor het Radix-ecosysteem. Chat in gewone taal over wallets, tokens, staking, swaps en meer. Crypto zonder drempels.",
           "url": "https://www.ineedemily.com",
           "tag": "AI Chatbot",
           "image": "/showcase-emily.png"
@@ -355,11 +355,11 @@
       "items": [
         {
           "question": "Ik ben helemaal niet technisch. Is dat een probleem?",
-          "answer": "Helemaal niet — dat is precies waarom ik besta. Ik regel alles van setup tot configuratie. Jij hoeft alleen te zeggen wat je nodig hebt, en ik maak het werkend."
+          "answer": "Helemaal niet. Dat is precies waarom ik besta. Ik regel alles van setup tot configuratie. Jij hoeft alleen te zeggen wat je nodig hebt, en ik maak het werkend."
         },
         {
           "question": "Hoe snel zie ik resultaat?",
-          "answer": "De meeste klanten merken verschil binnen de eerste week. Meetbare ROI — zoals tijdsbesparing of snellere reactietijden — is doorgaans zichtbaar binnen 90 dagen."
+          "answer": "De meeste klanten merken verschil binnen de eerste week. Meetbare ROI, zoals tijdsbesparing of snellere reactietijden, is doorgaans zichtbaar binnen 90 dagen."
         },
         {
           "question": "Is mijn data veilig?",
@@ -367,7 +367,7 @@
         },
         {
           "question": "Wat als het niet werkt voor mijn bedrijf?",
-          "answer": "Tijdens het gratis kennismakingsgesprek bepalen we samen of AI een goede fit is. Ik ben eerlijk — als AI niet gaat helpen, zeg ik dat gewoon."
+          "answer": "Tijdens het gratis kennismakingsgesprek bepalen we samen of AI een goede fit is. Ik ben eerlijk: als AI niet gaat helpen, zeg ik dat gewoon."
         },
         {
           "question": "Wat kost het?",
@@ -375,7 +375,7 @@
         },
         {
           "question": "Heb ik speciale hardware of software nodig?",
-          "answer": "Meestal niet. De meeste oplossingen werken met je bestaande tools — Gmail, Calendar, Drive, je CRM. Als hardware nodig is, adviseer ik je."
+          "answer": "Meestal niet. De meeste oplossingen werken met je bestaande tools: Gmail, Calendar, Drive, je CRM. Als hardware nodig is, adviseer ik je."
         },
         {
           "question": "Kan ik eerst zien hoe het werkt?",

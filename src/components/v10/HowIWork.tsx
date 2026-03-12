@@ -72,7 +72,7 @@ export default function HowIWork() {
                       {step.items.map((item, i) => (
                         <div key={i}>
                           <p className="text-navy font-semibold text-sm">{item.title}</p>
-                          <p className="text-slate text-sm leading-relaxed mt-0.5">
+                          <p className="text-slate text-sm leading-relaxed mt-0.5 hidden md:block">
                             {item.description}
                           </p>
                         </div>

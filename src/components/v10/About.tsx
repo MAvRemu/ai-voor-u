@@ -111,7 +111,7 @@ export default function About() {
                     <h4 className="mt-3 font-heading font-semibold text-navy text-base leading-snug">
                       {item.title}
                     </h4>
-                    <p className="mt-1.5 text-sm text-slate leading-relaxed">
+                    <p className="mt-1.5 text-sm text-slate leading-relaxed hidden md:block">
                       {item.description}
                     </p>
                     <span className="mt-3 inline-flex items-center gap-1.5 text-xs font-medium text-teal-dark group-hover:gap-2.5 transition-all duration-200">
