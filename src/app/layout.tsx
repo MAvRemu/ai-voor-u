@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://aivoorjou.nu"),
+  metadataBase: new URL("https://aivooru.nu"),
 };
 
 export default function RootLayout({

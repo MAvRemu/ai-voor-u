@@ -11,7 +11,7 @@ export async function OrganizationJsonLd({ locale }: JsonLdProps) {
     answer: string;
   }>;
 
-  const baseUrl = "https://aivoorjou.nu";
+  const baseUrl = "https://aivooru.nu";
 
   const organizationSchema = {
     "@context": "https://schema.org",

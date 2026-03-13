@@ -2,10 +2,10 @@
 
 ## What is this?
 
-AIvoorU is an AI consultancy & implementation service for freelancers (ZZP'ers) and small businesses (MKB) in the Netherlands. This repo is the marketing website at **aivoorjou.nu**.
+AIvoorU is an AI consultancy & implementation service for freelancers (ZZP'ers) and small businesses (MKB) in the Netherlands. This repo is the marketing website at **aivooru.nu**.
 
 - **Brand name:** AIvoorU
-- **Domain:** aivoorjou.nu
+- **Domain:** aivooru.nu
 - **Email:** info@aivooru.nu (different domain from website)
 - **Founder:** Marius (solo developer)
 
@@ -63,7 +63,7 @@ All section components are in `src/components/v10/` and are client components us
 ## Key Conventions
 
 - **Translations:** All user-facing text lives in `messages/{locale}.json`. Top-level `meta` key is used by layout metadata; all content is under `v10.*` namespace.
-- **Brand name:** Always "AIvoorU" (not "AIvoorjou" — that's only the domain).
+- **Brand name:** Always "AIvoorU" (not "AIvooru" — that's only the domain).
 - **Fonts:** Poppins (headings, 600-700) + Inter (body, 300-600), loaded via `next/font/google`.
 - **Colors:** teal (#0EA5E9), violet (#8B5CF6), navy (#0F172A), slate (#64748B), ice (#F0F9FF) — defined in globals.css `@theme`.
 - **Animations:** Framer Motion with `useReducedMotion()` support. Key patterns: blur-fade on scroll, word-fade-in, shimmer buttons.

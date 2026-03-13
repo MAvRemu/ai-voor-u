@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/api/",
     },
-    sitemap: "https://aivoorjou.nu/sitemap.xml",
+    sitemap: "https://aivooru.nu/sitemap.xml",
   };
 }

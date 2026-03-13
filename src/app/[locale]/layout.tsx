@@ -33,7 +33,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
 
-  const baseUrl = "https://aivoorjou.nu";
+  const baseUrl = "https://aivooru.nu";
 
   return {
     title: {

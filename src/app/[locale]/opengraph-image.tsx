@@ -62,7 +62,7 @@ export default async function OgImage({
             marginTop: 40,
           }}
         >
-          aivoorjou.nu
+          aivooru.nu
         </div>
       </div>
     ),
