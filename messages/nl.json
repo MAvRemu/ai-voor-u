@@ -16,7 +16,7 @@
       "cta": "Plan een gratis gesprek"
     },
     "hero": {
-      "eyebrow": "AI-consultancy voor MKB & ZZP'ers",
+      "eyebrow": "AI-implementation & consultancy voor MKB & ZZP'ers",
       "headline": "Je concurrenten gebruiken al AI.",
       "headlineAccent": "En jij?",
       "founderBadge": "Marius",
@@ -293,7 +293,7 @@
           "description": "",
           "items": [
             {
-              "title": "AI-implementatie op maat",
+              "title": "AI-implementatie",
               "description": "Ik zet AI-oplossingen op die passen bij jouw workflow. Gekoppeld aan je tools, getraind op jouw data, klaar voor gebruik."
             },
             {

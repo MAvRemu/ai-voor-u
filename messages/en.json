@@ -16,7 +16,7 @@
       "cta": "Book a free call"
     },
     "hero": {
-      "eyebrow": "AI consultancy for SMBs & freelancers",
+      "eyebrow": "AI implementation & consultancy for SMBs & freelancers",
       "headline": "Your competitors are already using AI.",
       "headlineAccent": "Are you?",
       "founderBadge": "Marius, founder",
@@ -293,7 +293,7 @@
           "description": "",
           "items": [
             {
-              "title": "Custom AI implementation",
+              "title": "AI implementation",
               "description": "I set up AI solutions tailored to your workflow. Connected to your tools, trained on your data, ready to use."
             },
             {
