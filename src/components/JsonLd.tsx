@@ -21,8 +21,8 @@ export async function OrganizationJsonLd({ locale }: JsonLdProps) {
     logo: `${baseUrl}/favicon.svg`,
     description:
       locale === "nl"
-        ? "AI-consultancy en technische implementatie voor MKB en ZZP'ers in Nederland."
-        : "AI consultancy and technical implementation for freelancers and SMBs in the Netherlands.",
+        ? "AI-implementatie en consultancy voor MKB en ZZP'ers in Nederland."
+        : "AI implementation and consultancy for freelancers and SMBs in the Netherlands.",
     email: "info@aivooru.nu",
     areaServed: {
       "@type": "Country",
@@ -30,8 +30,8 @@ export async function OrganizationJsonLd({ locale }: JsonLdProps) {
     },
     serviceType:
       locale === "nl"
-        ? "AI-consultancy en implementatie"
-        : "AI consultancy and implementation",
+        ? "AI-implementatie en consultancy"
+        : "AI implementation and consultancy",
     knowsLanguage: ["nl", "en"],
   };
 
@@ -40,12 +40,12 @@ export async function OrganizationJsonLd({ locale }: JsonLdProps) {
     "@type": "Service",
     name:
       locale === "nl"
-        ? "AI-consultancy & implementatie"
-        : "AI consultancy & implementation",
+        ? "AI-implementatie & consultancy"
+        : "AI implementation & consultancy",
     description:
       locale === "nl"
-        ? "AI-consultancy en technische implementatie voor MKB en ZZP'ers. Van strategie tot werkende AI-oplossingen."
-        : "AI consultancy and technical implementation for freelancers and SMBs. From strategy to working AI solutions.",
+        ? "AI-implementatie en consultancy voor MKB en ZZP'ers. Van strategie tot werkende AI-oplossingen."
+        : "AI implementation and consultancy for freelancers and SMBs. From strategy to working AI solutions.",
     provider: {
       "@type": "ProfessionalService",
       name: "AIvoorU",
@@ -57,8 +57,8 @@ export async function OrganizationJsonLd({ locale }: JsonLdProps) {
     },
     serviceType:
       locale === "nl"
-        ? "AI-consultancy en implementatie"
-        : "AI consultancy and implementation",
+        ? "AI-implementatie en consultancy"
+        : "AI implementation and consultancy",
   };
 
   const faqSchema = {
