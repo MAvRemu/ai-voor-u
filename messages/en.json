@@ -66,11 +66,7 @@
               "title": "Think along and suggest",
               "description": "Brainstorm ideas, draft proposals, prepare meeting summaries, or research a topic. Your AI handles it."
             },
-            {
-              "title": "Speak your language",
-              "description": "Your assistant adapts to your brand voice, jargon, and style. It's not generic AI. It's your AI."
-            },
-            {
+{
               "title": "Grow with you",
               "description": "Start simple, then expand to scheduling, follow-ups, reporting, and more. ROI visible within 90 days."
             },
@@ -133,10 +129,6 @@
             {
               "title": "Consistent brand identity",
               "description": "Train AI on your brand voice and style. Every piece of content stays on-brand, from Instagram to white papers."
-            },
-            {
-              "title": "Effortless A/B testing",
-              "description": "AI generates multiple variants of headlines, CTAs, and emails. Automatically test which version performs best."
             }
           ]
         },
@@ -163,10 +155,6 @@
             {
               "title": "CRM enrichment on autopilot",
               "description": "AI fills in client profiles with public data, past interactions, and social media. Always a complete picture before your sales call."
-            },
-            {
-              "title": "Pipeline forecasting",
-              "description": "AI predicts which deals are likely to close and where your pipeline has gaps. Adjust course before it's too late."
             }
           ]
         },
@@ -178,15 +166,7 @@
               "title": "Automatic bookkeeping & invoicing",
               "description": "AI extracts data from invoices, categorizes expenses, and schedules payments. 93% of accounting pros already use AI."
             },
-            {
-              "title": "7 extra weeks per employee per year",
-              "description": "That's the measured productivity gain from AI in accounting. Time shifts from data entry to strategy."
-            },
-            {
-              "title": "Cash flow predictions",
-              "description": "AI analyzes patterns to predict cash flow, flag shortfalls, and suggest action. Fewer surprises, better decisions."
-            },
-            {
+{
               "title": "Fewer errors, better compliance",
               "description": "AI reduces data entry errors and keeps records audit-ready. Cleaner books, less stress."
             },
@@ -205,20 +185,12 @@
               "description": "AI handles booking, confirmations, and rescheduling. One clinic reduced no-shows from 18% to just 6%."
             },
             {
-              "title": "Smart staff scheduling",
-              "description": "AI optimizes schedules based on demand, availability, and skills. Up to 25% lower operational costs."
-            },
-            {
               "title": "Automatic reminders & follow-ups",
               "description": "No more missed appointments or forgotten follow-ups. AI sends reminders via email, SMS, or chat."
             },
             {
               "title": "Track projects & tasks",
               "description": "AI tracks deadlines, flags bottlenecks, and prioritizes your to-do list. Save 5-10 hours weekly."
-            },
-            {
-              "title": "Travel time & route optimization",
-              "description": "AI schedules appointments back-to-back and accounts for travel time. Less driving, more client time."
             }
           ]
         },
@@ -227,18 +199,10 @@
           "subtitle": "Know your market, watch competitors, spot opportunities. Without hours of reading.",
           "items": [
             {
-              "title": "Market research in minutes",
-              "description": "AI scans and summarizes industry reports, news, and trends. Save 1-2 hours per client on research."
+              "title": "Daily competitor updates",
+              "description": "AI monitors competitor pricing, products, and marketing. Get a daily update so you're always in the know."
             },
-            {
-              "title": "Competitor analysis on autopilot",
-              "description": "AI monitors competitor pricing, products, and marketing. Actionable summaries instead of evenings on their site."
-            },
-            {
-              "title": "Data-driven decisions",
-              "description": "AI analyzes your sales trends, customer behavior, and seasonal patterns. 15% less overstock, 10% more sales."
-            },
-            {
+{
               "title": "Spot trends before competitors",
               "description": "AI identifies emerging trends from social media, search data, and news. Be first to act, not last to react."
             },
@@ -267,10 +231,6 @@
             {
               "title": "Leave management & schedule changes",
               "description": "Employees request time off via chat. AI checks availability, adjusts the schedule, and confirms."
-            },
-            {
-              "title": "Measure employee satisfaction",
-              "description": "AI sends short pulse surveys and analyzes satisfaction trends. Catch early signals before they become problems."
             }
           ]
         }

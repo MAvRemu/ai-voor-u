@@ -66,11 +66,7 @@
               "title": "Denkt mee en doet suggesties",
               "description": "Brainstorm ideeën, stel offertes op, maak meeting-samenvattingen of onderzoek een onderwerp. Je AI regelt het."
             },
-            {
-              "title": "Spreekt jouw taal",
-              "description": "Je assistent past zich aan aan jouw merkstem, jargon en stijl. Het is geen generieke AI. Het is jóúw AI."
-            },
-            {
+{
               "title": "Groeit met je mee",
               "description": "Begin simpel, breid dan uit naar planning, opvolging, rapportage en meer. ROI zichtbaar binnen 90 dagen."
             },
@@ -133,10 +129,6 @@
             {
               "title": "Consistente merkidentiteit",
               "description": "Train AI op jouw merkstem en stijl. Elke content blijft on-brand, van Instagram tot white papers."
-            },
-            {
-              "title": "A/B-testen zonder moeite",
-              "description": "AI genereert meerdere varianten van koppen, CTA's en e-mails. Test automatisch welke versie het best presteert."
             }
           ]
         },
@@ -163,10 +155,6 @@
             {
               "title": "CRM-verrijking op autopilot",
               "description": "AI vult klantprofielen aan met openbare data, eerdere interacties en social media. Altijd een compleet beeld voor je sales-gesprek."
-            },
-            {
-              "title": "Pipeline forecasting",
-              "description": "AI voorspelt welke deals waarschijnlijk sluiten en waar je pipeline gaten heeft. Stuur bij vóór het te laat is."
             }
           ]
         },
@@ -178,15 +166,7 @@
               "title": "Automatische boekhouding & facturatie",
               "description": "AI haalt data uit facturen, categoriseert uitgaven en plant betalingen. 93% van boekhoudprofessionals gebruikt al AI."
             },
-            {
-              "title": "7 extra weken per medewerker per jaar",
-              "description": "Dat is de gemeten productiviteitswinst van AI in boekhoudtaken. Tijd verschuift van data-invoer naar strategie."
-            },
-            {
-              "title": "Cashflow voorspellingen",
-              "description": "AI analyseert patronen om cashflow te voorspellen, tekorten te signaleren en actie voor te stellen. Minder verrassingen."
-            },
-            {
+{
               "title": "Minder fouten, betere compliance",
               "description": "AI vermindert invoerfouten en houdt administratie audit-proof. Schonere boeken, minder stress."
             },
@@ -205,20 +185,12 @@
               "description": "AI regelt boekingen, bevestigingen en herplanningen. Eén kliniek verlaagde no-shows van 18% naar slechts 6%."
             },
             {
-              "title": "Slimme personeelsplanning",
-              "description": "AI optimaliseert roosters op basis van vraag, beschikbaarheid en vaardigheden. Tot 25% lagere operationele kosten."
-            },
-            {
               "title": "Automatische herinneringen & opvolging",
               "description": "Nooit meer gemiste afspraken of vergeten follow-ups. AI stuurt herinneringen via e-mail, SMS of chat."
             },
             {
               "title": "Projecten en taken bijhouden",
               "description": "AI volgt deadlines, signaleert bottlenecks en prioriteert je to-do lijst. Bespaar 5-10 uur per week."
-            },
-            {
-              "title": "Reistijd en routeoptimalisatie",
-              "description": "AI plant afspraken slim achter elkaar en houdt rekening met reistijd. Minder rijden, meer klantcontact."
             }
           ]
         },
@@ -227,18 +199,10 @@
           "subtitle": "Ken je markt, volg concurrenten, spot kansen. Zonder uren lezen.",
           "items": [
             {
-              "title": "Marktonderzoek in minuten",
-              "description": "AI scant en vat brancherapporten, nieuws en trends samen. Bespaar 1-2 uur per klant op onderzoek."
+              "title": "Dagelijkse concurrentie-update",
+              "description": "AI monitort concurrentieprijzen, producten en marketing. Elke dag een update zodat je altijd op de hoogte bent."
             },
-            {
-              "title": "Concurrentie-analyse op autopilot",
-              "description": "AI monitort concurrentieprijzen, producten en marketing. Bruikbare samenvattingen in plaats van avonden op hun site."
-            },
-            {
-              "title": "Data-gedreven beslissingen",
-              "description": "AI analyseert je salestrends, klantgedrag en seizoenspatronen. 15% minder overstock, 10% meer omzet."
-            },
-            {
+{
               "title": "Trends spotten voor je concurrenten",
               "description": "AI identificeert opkomende trends uit social media, zoekdata en nieuws. Wees de eerste die handelt."
             },
@@ -267,10 +231,6 @@
             {
               "title": "Verlofregistratie & roosterwijzigingen",
               "description": "Medewerkers vragen verlof aan via chat. AI checkt beschikbaarheid, past het rooster aan en bevestigt."
-            },
-            {
-              "title": "Medewerkerstevredenheid meten",
-              "description": "AI verstuurt korte pulse-surveys en analyseert trends in tevredenheid. Vroegtijdig signalen oppakken vóór het een probleem wordt."
             }
           ]
         }
