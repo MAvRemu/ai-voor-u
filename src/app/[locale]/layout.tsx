@@ -7,6 +7,7 @@ import { routing } from "@/i18n/routing";
 import V10Header from "@/components/v10/Header";
 import { OrganizationJsonLd } from "@/components/JsonLd";
 import { Analytics } from "@vercel/analytics/next";
+import Script from "next/script";
 import "../globals.css";
 
 const poppins = Poppins({
@@ -101,6 +102,18 @@ export default async function LocaleLayout({
           <main>{children}</main>
         </NextIntlClientProvider>
         <Analytics />
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=AW-18022729756"
+          strategy="afterInteractive"
+        />
+        <Script id="google-ads" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'AW-18022729756');
+          `}
+        </Script>
       </body>
     </html>
   );
